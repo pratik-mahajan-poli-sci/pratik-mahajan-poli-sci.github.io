@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Pratik Mahajan"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - research.qmd
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
+
+
+

@@ -8,8 +8,11 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
       - research.qmd
+      - fieldwork.qmd
+      - teaching.qmd
+      - outside_academy.qmd
+     
 
 format:
   html:

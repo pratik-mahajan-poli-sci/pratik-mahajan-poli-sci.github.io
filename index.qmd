@@ -1,5 +1,24 @@
 ---
-title: "pratik-mahajan-politics.github.io"
+title: "Pratik Mahajan"
+description: Political Science
+image: "Pratik Informal headshot.jpg"
 about: 
-     template: jolla
+  template: trestles
+  image-shape: rounded
+  image-width: 20em
+  links:
+    - icon: file-pdf
+      text: CV
+      href: CV_Pratik_Mahajan_Jan2024.pdf
+    - icon: envelope
+      text: Email
+      href: mailto:pratik.mahajan@mail.mcgill.ca
 ---
+
+Welcome!
+
+I am a final year Master's student in the Department of Political Science, McGill University. My research interests lie in exploring the challenges to and conditions for better electoral representation and development outcomes for marginalized groups in rural and semi-urban India, particularly Scheduled Tribes and OBCs, through a political behaviour, political economy, and nested identity lenses. 
+
+My current research explores the electoral shift of the Bhil, a Scheduled Tribes group in western India, toward the Hindu-nationalist Bhartiya Janata Party (BJP). Relying on fieldwork including intensive interviews and quantitative survey experiments in 40 villages, I argue that tribal identity and material interests remain salient amongst Bhils despite increasing Hindu nationalist mobilization. 
+
+I am currently a member of the Centre for the Study of Democratic Citizenship (CSDC) and the Institute for the Study of International Development (ISID) in Montreal, as well as a fellow at the Consortium on Analytics for Data-Drive Decision-Making (CAnD3) Prior to my MA, I completed a BA (First Class Honours) in Political Science at McGill University.

@@ -17,7 +17,7 @@ website:
       - research.qmd
       - fieldwork.qmd
       - teaching.qmd
-      - outside academia.qmd
+      - outside_academia.qmd
      
 
 format:

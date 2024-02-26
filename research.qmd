@@ -1,5 +1,49 @@
 ---
-title: "research"
+title: "Research"
 ---
 
-Working Papers
+### Working Papers
+
+**Religious Parties, Minority Voters, and Turncoat Patrons: Evidence from a Scheduled Tribe Constituency in India.** <a href="files/Thesis_Draft_McGill"><i class="fas fa-file-pdf"></i> **Access Draft** </a>
+
+-   Explores the electoral shift of Bhil Scheduled Tribes (ST) in western India towards the Bharatiya Janata Party (BJP) through capture of local Bhil patrons. Argues that ethnic and material interests remain salient despite increasing Hindu nationalist mobilization, and loyalty to local patron trumps party affiliation amongst BJP voting Bhils.
+
+-   Mixed-Method Research Design: Visual Conjoint Survey (n=678 in 40 villages) and Interviews (n=80 in 10 villages)
+
+### Ongoing Projects
+
+**Changing Emic Idea of Group Identity Amongst the Bhils and Its Politics Across Generations** (With [Vikramaditya Thakur](https://www.anthropology.udel.edu/people/faculty/vthakur)) *Under Development* *for a Special Issue*
+
+-   Explores the post-colonial and contemporary evolution of Bhil tribal identity. Against the misplaced conception that increased education amongst Bhils would lead to absorption into mainstream Hindu identity, this paper argues that Bhil tribal identity is seeing a revival amongst the educated and young Bhils due to electoral and social policy factors.
+-   Multi-Method Research Design: Elite Interviews and Survey Data Analysis (by Mahajan) and Ethnography and Historiography (by Thakur)
+
+**The Housing Gap: A Report on Inequity in Housing Affordability in the Canadian Population** (With Kate Marr-Laing Bertram Melix and Megan Skowronski) *Under development as part of CAnD3 Fellowship*
+
+**Triangulating Conjoint Findings Amongst Low Literacy and Remote Populations: A Visual and Interview Approach** *Under development as a research note*
+
+-   Critical discussion of the interpretive power of using designed graphics to conduct conjoint analyses, and incorporating subsequent\
+    interviews as a robustness check of findings while administering conjoint surveys in contexts where literacy and digital infrastructure\
+    are low and outsider skepticism is high.
+
+**Turning Right After Protesting? Measuring the Impact of the Save Narmada Movement on Scheduled Tribes Voting for the Bharatiya Janata Party** *Preliminary Analysis*
+
+-   Utilizing a Difference-in-Differences (DiD) approach, the study explores whether dissatisfaction with the failure of the Save Narmada\
+    Movement, particularly after the Supreme Court's ruling in favour of the Sardar Sarovar Dam, led to a populist backlash resulting in\
+    increased support for the BJP among the Bhil tribes in Gujarat, Maharashtra, and Madhya Pradesh
+-   Comparison of BJP vote share in Bhil-dominated assembly constituencies inside and outside the Narmada Basin before and after the Supreme Court's decision, to determine if the movement's failure influenced the electoral rise of the BJP in the Bhil tribal belt. Preliminary analysis points to a null result.
+
+### Student Reviewed Publications
+
+Mahajan, Pratik. 2023. ["The Politics Behind Love Jihad in India: Understanding the Spread of the Conspiracy Theory in 2014."](https://crgreview.com/the-politics-behind-love-jihad-in-indiaunderstanding-the-spread-of-the-conspiracy-theory-in-2014/) A Contemporary Review of Genocide and Political Violence. McGill University.
+
+\
+Mahajan, Pratik. 2021. ["Action As Addition -- A Rejection of Consequentialising."](https://00ff1226-c9ea-453e-baa6-e67819b43f30.filesusr.com/ugd/bc8784_cc48e86634aa4c4ca45aac27c1a3ee11.pdf) Fragments. McGill Philosophy Journal.
+
+\
+Mahajan, Pratik. May 2021. ["Guardians, Citizens and The Prohibition of Private Possessions in Plato's Republic."](https://mppsm15.medium.com/guardians-citizens-and-the-prohibition-of-private-possessions-in-platos-republic-bc97976abd9) Liberalis Magazine. Liberal Project.
+
+\
+Mahajan, Pratik. May 2021. ["Why India's Plan for A New Parliament May Spell A Challenging Future For Its Democracy."](https://www.mironline.ca/why-indias-plan-for-a-new-parliament-may-spell-a-challenging-future-for-its-democracy/) The McGill International Review.
+
+\
+Mahajan, Pratik. July 2021. ["Education in India: A Duty Forsaken During COVID-19."](https://www.mironline.ca/education-in-india-a-right-forsaken-during-covid-19/) The McGill International Review

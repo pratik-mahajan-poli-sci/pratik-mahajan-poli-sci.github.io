@@ -1,7 +1,7 @@
 ---
 title: "Pratik Mahajan"
 description: Political Science
-image: "Pratik Informal headshot.jpg"
+image: "files/Pratik Informal headshot.jpg"
 about: 
   template: trestles
   image-shape: rounded
@@ -9,7 +9,7 @@ about:
   links:
     - icon: file-pdf
       text: CV
-      href: CV_Pratik_Mahajan_Jan2024.pdf
+      href: files/CV_Pratik_Mahajan_Jan2024.pdf
     - icon: envelope
       text: Email
       href: mailto:pratik.mahajan@mail.mcgill.ca

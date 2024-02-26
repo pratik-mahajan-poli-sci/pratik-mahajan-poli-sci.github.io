@@ -1,7 +1,12 @@
 project:
   type: website
   output-dir: docs
-
+  
+html-head:
+  - meta:
+      name: google-site-verification
+      content: "7NwzhO4mpO6aQd9qc-4BPOMgPx3mSGD3fwlAp63evUQ"
+      
 website:
   title: "Pratik Mahajan"
   navbar:

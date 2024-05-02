@@ -1,5 +1,10 @@
 ---
 title: "Research"
+image: "files/mm_party_interact.png"
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 10em
 ---
 
 ### Working Papers
@@ -17,7 +22,7 @@ title: "Research"
 -   Explores the post-colonial and contemporary evolution of Bhil tribal identity. Against the misplaced conception that increased education amongst Bhils would lead to absorption into mainstream Hindu identity, this paper argues that Bhil tribal identity is seeing a revival amongst the educated and young Bhils due to electoral and social policy factors.
 -   Multi-Method Research Design: Elite Interviews and Survey Data Analysis (by Mahajan) and Ethnography and Historiography (by Thakur)
 
-**The Housing Gap: A Report on Inequity in Housing Affordability in the Canadian Population** (With Kate Marr-Laing Bertram Melix and Megan Skowronski) *Under development as part of CAnD3 Fellowship*
+**The Housing Gap: A Report on Inequity in Housing Affordability in the Canadian Population** (With Kate Marr-Laing, Bertram Melix and Megan Skowronski) [*Access Draft*](https://drive.google.com/file/d/1Jj-oxvSLvs19kwVcaE9-CrL6oePHcGIZ/view?usp=sharing)*Under development as part of CAnD3 Fellowship*
 
 **Triangulating Conjoint Findings Amongst Low Literacy and Remote Populations: A Visual and Interview Approach** *Under development as a research note*
 

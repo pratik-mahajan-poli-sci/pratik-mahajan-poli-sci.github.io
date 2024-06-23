@@ -1,3 +1,54 @@
 ---
-title: "teaching"
+title: "Teaching"
+image: "files/csdc_teaching.jpg"
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 10em
+  
+toc: false
 ---
+
+#### Workshop Instructor
+
+[**Conjoint Analysis: Visual and Interview Approach**](https://drive.google.com/file/d/1TVPvrzCwtSQSi3-pQJyLOWKoPA0h24J-/view?usp=sharing) (CSDC Winter Methods School, Université de Montréal, Jan 2024)
+
+-   Introduction and a critical discussion of using graphics to conduct conjoint analyses and incorporating interviews as a robustness check while administering conjoint surveys in developing contexts where literacy levels and digital infrastructure are poor and outsider skepticism is high.
+
+#### TA for McGill Courses
+
+**POLI 311 Introduction to Quantitative Methods** (Prof. Aaron Erlich, Jan-Apr 2024)
+
+-   Organized instruction material and facilitated weekly labs for R programming and quantitative political methodology for 50 students and managed assignment grading. Evaluation: 4.5/5
+
+**POLI 210 Political Science Research Methods** (Profs. Dietlind Stolle and Aaron Erlich, Sep-Dec 2023)
+
+-   Organized instruction material and facilitated weekly labs for 90 students for R programming and evaluated quantitative and qualitative assignments. Evaluation: 4.4/5
+
+**POLI 435 Identity and Inequality** (Prof. Narendra Subramanian, Jan--Apr 2023)
+
+-   Facilitated weekly conference sections for 40 students, graded assignments and term papers. Evaluation: 4.7/5
+
+**POLI 349 Foreign Policy of Asia** (Dr. Jaeyoung Kim, Sep-Dec 2022)
+
+-   Facilitated weekly conference sections for over 70 students and managed assignment evaluations. Evaluation: 4.6/5
+
+#### TA for Short Courses
+
+**Data Visualization in R** (Dr. Sakeef Karim, Nov 2023, Florida State University)
+
+-   Supported a 3-day workshop on data visualization techniques in R, organized by CAnD3-FSU
+
+**R Programming Summer Camp** (Prof. Tim Elrick, Aug 2023, CSDS-McGill)
+
+-   Assisted in lab sessions, and provided coding support and debugging for McGill's week-long R summer camp.
+
+#### Grader for McGill Courses
+
+**POLI 431 Nationalism and Nation States** (Prof. Elissa Berwick, Feb--Apr 2024)
+
+-   Grading of 77 upper-year undergraduate exams and final papers.
+
+**POLI 522 Politics of Identity** (Prof. Narendra Subramanian, Apr 2023)
+
+-   Grading of 10 final-year undergraduate honours seminar papers.

@@ -15,9 +15,10 @@ website:
       - href: index.qmd
         text: Home
       - research.qmd
-      - fieldwork.qmd
       - teaching.qmd
-      - outside_academia.qmd
+      - snapshots.qmd
+      - cand3.qmd
+    
      
 
 format:

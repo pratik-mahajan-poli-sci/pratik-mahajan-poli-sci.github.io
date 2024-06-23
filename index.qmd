@@ -1,6 +1,6 @@
 ---
 title: "Pratik Mahajan"
-description: Political Science
+description: Political Science 
 image: "files/Pratik Informal headshot.jpg"
 about: 
   template: trestles
@@ -9,16 +9,17 @@ about:
   links:
     - icon: file-pdf
       text: CV
-      href: files/CV_Pratik_Mahajan_Jan2024.pdf
+      href: files/CV_Pratik_Mahajan_June2024.pdf
     - icon: envelope
       text: Email
       href: mailto:pratik.mahajan@mail.mcgill.ca
+toc: false
 ---
 
-# Welcome!
+# Hello/Namaskar!
 
-I am a final year Master's student in the Department of Political Science, McGill University. My research interests lie in exploring the challenges to and conditions for better electoral representation and development outcomes for marginalized groups in rural and semi-urban India, particularly Scheduled Tribes and OBCs, through a political behaviour, political economy, and nested identity lenses.
+I am a student, researcher, and practitioner of political representation and development in rural India. My academic and experiential work grapples with questions of how political representation is realized in unexpected and divergent ways, particularly among the Scheduled Tribes (*Adivasis)* and non-state interest groups that work outside the electoral channels.
 
-My current research explores the electoral shift of the Bhil, a Scheduled Tribes group in western India, toward the Hindu-nationalist Bhartiya Janata Party (BJP). Relying on fieldwork including intensive interviews and quantitative survey experiments in 40 villages, I argue that tribal identity and material interests remain salient amongst Bhils despite increasing Hindu nationalist mobilization.
+I do so while balancing multiple hats, collaborating with academics and grassroots organizations (*jan sangathans),* to observe and improve gaps in political representation. I have previously worked on a project explaining the electoral and ideological dynamics of rising Hindu nationalism in constituencies reserved for Scheduled Tribes in Maharashtra. My upcoming projects involve academic and practical collaborations with grassroots organizations seeking to improve the electoral agency and participation of ethnic and gender minority voters in Maharashtra.
 
-I am currently a member of the [Centre for the Study of Democratic Citizenship](https://csdc-cecd.ca/) (CSDC) and the [Institute for the Study of International Development](https://www.mcgill.ca/isid/) (ISID) in Montreal, as well as a fellow at the [Consortium on Analytics for Data-Drive Decision-Making](https://www.mcgill.ca/cand3/) (CAnD3) Prior to my MA, I completed a BA (First Class Honours) in Political Science at McGill University.
+I graduated with a MA in Political Science (Development Studies) in May 2024 from McGill University, Canada. I have been a member of the [Centre for the Study of Democratic Citizenship](https://csdc-cecd.ca/) (CSDC) and the [Institute for the Study of International Development](https://www.mcgill.ca/isid/) (ISID) in Montreal, as well as a fellow at the [Consortium on Analytics for Data-Drive Decision-Making](https://www.mcgill.ca/cand3/) (CAnD3). Prior to my MA, I completed a BA (First Class Honours) in Political Science at McGill University.

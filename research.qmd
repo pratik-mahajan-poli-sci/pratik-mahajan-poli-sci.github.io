@@ -1,6 +1,6 @@
 ---
 title: "Research"
-image: "files/mm_party_interact.png"
+image: "files/conjoint combo.jpg"
 about: 
   template: trestles
   image-shape: rounded

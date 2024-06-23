@@ -1,9 +1,10 @@
 ---
 title: "CAnD3"
+image: "files/cand3.png"
 about: 
   template: trestles
   image-shape: rounded
-  image-width: 10em
+  image-width: 30em
   
 toc: false
 ---
@@ -13,8 +14,6 @@ toc: false
 ### *(With Bertram Melix and Megan Skowronski)*
 
 As a fellow of CAnD3, I coauthored a data visualization that explores the relationship between average wait times for housing vouchers and the percentage of minority households at the county level across the United States.
-
-![Mapping the Intersection](files/cand3.png)
 
 Here we have produced a bivariate map of the United States, illustrating the average wait time for households to receive housing vouchers, overlaid with the percentage of minority households using county-level data.
 

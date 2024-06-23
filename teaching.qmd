@@ -1,10 +1,10 @@
 ---
 title: "Teaching"
-image: "files/csdc_teaching.jpg"
+image: "files/csdc teaching.jpg"
 about: 
   template: trestles
   image-shape: rounded
-  image-width: 10em
+  image-width: 20em
   
 toc: false
 ---

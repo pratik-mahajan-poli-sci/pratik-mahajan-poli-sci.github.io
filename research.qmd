@@ -4,7 +4,8 @@ image: "files/conjoint combo.jpg"
 about: 
   template: trestles
   image-shape: rounded
-  image-width: 10em
+  image-width: 30em
+toc: false
 ---
 
 ### Working Papers

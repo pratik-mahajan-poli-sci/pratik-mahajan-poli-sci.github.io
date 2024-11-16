@@ -56,9 +56,9 @@ toc: false
 
 ### Published Dataset
 
-#### **Subdistricts of India by Scheduled Status: An Original Dataset**
+#### [**Subdistricts of India by Scheduled Status: An Original Dataset**](https://www.devdatalab.org/shrug_download/)
 
-*Development Data Lab, 2024*\
+*Development Data Lab, 2024*
 - Subdistrict (tehsil/mandal/block) level spatial dataset with information on Fifth and Sixth Scheduled Areas of India.\
 - Includes SHRUG location indicators for ease of merging with other datasets.
 

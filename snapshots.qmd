@@ -1,9 +1,6 @@
 ---
 title: "Political Eye"
-about: 
-  template: trestles
-  image-shape: rounded
-  image-width: 10em
+toc: false
 ---
 
 ![Bus Broke Down En Route Field Site](files/bus.jpg)

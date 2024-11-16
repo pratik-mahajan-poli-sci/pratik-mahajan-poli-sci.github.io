@@ -1,13 +1,9 @@
 ---
 title: "CAnD3"
-image: "files/cand3.png"
-about: 
-  template: trestles
-  image-shape: rounded
-  image-width: 30em
-  
 toc: false
 ---
+
+![](files/cand3.png)
 
 ### Mapping the Intersection: Average Wait Time for Housing Vouchers in Relation to Minority Household Percentage
 

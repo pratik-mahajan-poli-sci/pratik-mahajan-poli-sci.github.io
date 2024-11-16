@@ -1,73 +1,77 @@
 ---
 title: "Research"
-image: "files/conjoint_combo.jpg"
-about: 
-  template: trestles
-  image-shape: rounded
-  image-width: 30em
 toc: false
 ---
 
+![Novel Visual Conjoint Experiment](files/conjoint_combo.jpg)
+
 ### Working Papers
 
-#### **Ideological Transformation After Patron Co-optation? The Resilience of Ethno-Clientelism Amid Hindu Nationalism in a Scheduled Tribe Constituency in India**  
-*Under Review*  
-- Explores the electoral shift of Bhil Scheduled Tribes (ST) in western India towards the Bharatiya Janata Party (BJP) through the capture of local Bhil patrons. Argues that ethnic and material interests remain salient despite increasing Hindu nationalist mobilization, and loyalty to local patrons trumps party affiliation amongst BJP-voting Bhils.  
-- **Mixed-Method Design**: Visual Conjoint Survey (n=678 in 40 villages) and Interviews (n=80 voters in 10 villages, 20 elites).  
+#### **Ideological Transformation After Patron Co-optation? The Resilience of Ethno-Clientelism Amid Hindu Nationalism in a Scheduled Tribe Constituency in India**
 
-#### **Changing Emic Idea of Group Identity Amongst the Bhils and Its Politics Across Generations**  
-*With [Vikramaditya Thakur](https://www.udel.edu/academics/colleges/cas/units/departments/anthropology/our-people/vikramaditya-thakur/)*  
-*Under development with Asian Ethnicity for special-issue*  
-- Explores the post-colonial and contemporary evolution of Bhil tribal identity. Against the misconception that increased education among Bhils leads to absorption into mainstream Hindu identity, the paper argues for a revival of Bhil identity among the educated younger generations due to electoral and social policies.  
-- **Multi-Method Design**: Elite Interviews and Survey Data Analysis (by Mahajan) and Ethnography and Historiography (by Thakur).  
+*Under Review*\
+- Explores the electoral shift of Bhil Scheduled Tribes (ST) in western India towards the Bharatiya Janata Party (BJP) through the capture of local Bhil patrons. Argues that ethnic and material interests remain salient despite increasing Hindu nationalist mobilization, and loyalty to local patrons trumps party affiliation amongst BJP-voting Bhils.\
+- **Mixed-Method Design**: Visual Conjoint Survey (n=678 in 40 villages) and Interviews (n=80 voters in 10 villages, 20 elites).
 
----
+#### **Changing Emic Idea of Group Identity Amongst the Bhils and Its Politics Across Generations**
+
+*With [Vikramaditya Thakur](https://www.udel.edu/academics/colleges/cas/units/departments/anthropology/our-people/vikramaditya-thakur/)*\
+*Under development with Asian Ethnicity for special-issue*\
+- Explores the post-colonial and contemporary evolution of Bhil tribal identity. Against the misconception that increased education among Bhils leads to absorption into mainstream Hindu identity, the paper argues for a revival of Bhil identity among the educated younger generations due to electoral and social policies.\
+- **Multi-Method Design**: Elite Interviews and Survey Data Analysis (by Mahajan) and Ethnography and Historiography (by Thakur).
+
+------------------------------------------------------------------------
 
 ### Ongoing Projects
 
-#### **Non-Partisan Grassroots Organizations as Electoral Actors in India**  
-*With [Feyaad Allie](https://www.feyaadallie.com/)*  
-- This project combines two papers:  
-  1. Examines how non-partisan grassroots organizations (GOs) engage voters during elections using shadowing, a vignette experiment with 720 organizational workers, and a conjoint experiment with 2340 voters.  
-  2. Explores under what conditions GOs and political parties perceive their collaboration as useful, and how they navigate differences during collaboration using shadowing and vignette experiments with 720 GO and 720 party workers.  
-- **Pre-registration Links**:  
-  - [GO-Voter Engagement (OSF)](https://osf.io/9buxy)  
-  - [GO-Party Collaboration (OSF)](https://osf.io/xnkqwa)  
+#### **Non-Partisan Grassroots Organizations as Electoral Actors in India**
 
-#### **Vacant Local Bodies and Democracy in India**  
-*With [Alyssa Heinze](https://alyssaheinze.github.io/)*  
-- Analyzes the impact of bureaucratic rule on perceptions of service delivery and democracy amid delays in local body elections in Maharashtra.  
-- Includes surveys of 2300 voters and 1400 organizational and party workers across four districts and observational analyses of governance data.  
-- **Pre-registration**: [OSF](https://osf.io/2nkz8)  
+*With [Feyaad Allie](https://www.feyaadallie.com/)*\
+- This project combines two papers:\
+1. Examines how non-partisan grassroots organizations (GOs) engage voters during elections using shadowing, a vignette experiment with 720 organizational workers, and a conjoint experiment with 2340 voters.\
+2. Explores under what conditions GOs and political parties perceive their collaboration as useful, and how they navigate differences during collaboration using shadowing and vignette experiments with 720 GO and 720 party workers.\
+- **Pre-registration Links**:\
+- [GO-Voter Engagement (OSF)](https://osf.io/9buxy)\
+- [GO-Party Collaboration (OSF)](https://osf.io/xnkqwa)
 
-#### **Ambition Amongst Party Workers in India**  
-*With [Feyaad Allie](https://www.feyaadallie.com/) and [Rahul Verma](https://cprindia.org/people/rahul-verma/)*  
-- Investigates how rank-and-file workers in hierarchical party systems like India balance political ambition and upward mobility.  
+#### **Vacant Local Bodies and Democracy in India**
 
-#### **Who Favors Dynasts in India?**  
-*With [Rahul Verma](https://cprindia.org/people/rahul-verma/)*  
-- Explores perceptions of dynasts versus non-dynasts on political metrics using surveys of 1400 party workers and 2000 voters.  
-- Initial findings suggest voter preference for dynasts is mediated by their own ambition for higher office.  
+*With [Alyssa Heinze](https://alyssaheinze.github.io/)*\
+- Analyzes the impact of bureaucratic rule on perceptions of service delivery and democracy amid delays in local body elections in Maharashtra.\
+- Includes surveys of 2300 voters and 1400 organizational and party workers across four districts and observational analyses of governance data.\
+- **Pre-registration**: [OSF](https://osf.io/2nkz8)
 
----
+#### **Ambition Amongst Party Workers in India**
+
+*With [Feyaad Allie](https://www.feyaadallie.com/) and [Rahul Verma](https://cprindia.org/people/rahul-verma/)*\
+- Investigates how rank-and-file workers in hierarchical party systems like India balance political ambition and upward mobility.
+
+#### **Who Favors Dynasts in India?**
+
+*With [Rahul Verma](https://cprindia.org/people/rahul-verma/)*\
+- Explores perceptions of dynasts versus non-dynasts on political metrics using surveys of 1400 party workers and 2000 voters.\
+- Initial findings suggest voter preference for dynasts is mediated by their own ambition for higher office.
+
+------------------------------------------------------------------------
 
 ### Published Dataset
 
-#### **Subdistricts of India by Scheduled Status: An Original Dataset**  
-*Development Data Lab, 2024*  
-- Subdistrict (tehsil/mandal/block) level spatial dataset with information on Fifth and Sixth Scheduled Areas of India.  
-- Includes SHRUG location indicators for ease of merging with other datasets.  
+#### **Subdistricts of India by Scheduled Status: An Original Dataset**
 
----
+*Development Data Lab, 2024*\
+- Subdistrict (tehsil/mandal/block) level spatial dataset with information on Fifth and Sixth Scheduled Areas of India.\
+- Includes SHRUG location indicators for ease of merging with other datasets.
+
+------------------------------------------------------------------------
 
 ### Public Writing
-- ["Ladki, bahin…but ethnic groups, caste too"](https://timesofindia.indiatimes.com/blogs/toi-edit-page/ladki-bahinbut-ethnic-groups-caste-too/) *The Times of India, 2024.*  
-- ["Democracy's Slow March"](https://timesofindia.indiatimes.com/blogs/toi-edit-page/democracy-on-a-slow-march/) *The Times of India, 2024.* With [Alyssa Heinze](https://alyssaheinze.github.io/).  
-- ["Maha Questions From Opposition's Small Allies"](https://timesofindia.indiatimes.com/blogs/toi-edit-page/maha-questions-from-oppositions-small-allies/) *The Times of India, 2024.*  
-- ["The Maha Gondhal: Maharashtra LS polls have never been muddier."](https://timesofindia.indiatimes.com/india/the-maha-gondhal/articleshow/110155097.cms) *The Times of India, 2024.* With [Vikramaditya Thakur](https://www.udel.edu/academics/colleges/cas/units/departments/anthropology/our-people/vikramaditya-thakur/).  
-- ["The Politics Behind Love Jihad in India: Understanding the Spread of the Conspiracy Theory in 2014."](https://crgreview.com/the-politics-behind-love-jihad-in-indiaunderstanding-the-spread-of-the-conspiracy-theory-in-2014/) *A Contemporary Review of Genocide and Political Violence, 2023.*  
-- ["Action As Addition – A Rejection of Consequentialising."](https://00ff1226-c9ea-453e-baa6-e67819b43f30.filesusr.com/ugd/bc8784_cc48e86634aa4c4ca45aac27c1a3ee11.pdf) *Fragments, 2021.* McGill Philosophy Journal.  
-- ["Guardians, Citizens and The Prohibition of Private Possessions in Plato’s Republic."](https://mppsm15.medium.com/guardians-citizens-and-the-prohibition-of-private-possessions-in-platos-republic-bc97976abd9) *Liberalis Magazine, May 2021.* Liberal Project.  
-- ["Why India’s Plan for A New Parliament May Spell A Challenging Future For Its Democracy."](https://www.mironline.ca/why-indias-plan-for-a-new-parliament-may-spell-a-challenging-future-for-its-democracy/) *The McGill International Review, May 2021.*  
-- ["Education in India: A Duty Forsaken During COVID-19."](https://www.mironline.ca/education-in-india-a-right-forsaken-during-covid-19/) *The McGill International Review, July 2021.*  
 
+-   ["Ladki, bahin…but ethnic groups, caste too"](https://timesofindia.indiatimes.com/blogs/toi-edit-page/ladki-bahinbut-ethnic-groups-caste-too/) *The Times of India, 2024.*\
+-   ["Democracy's Slow March"](https://timesofindia.indiatimes.com/blogs/toi-edit-page/democracy-on-a-slow-march/) *The Times of India, 2024.* With [Alyssa Heinze](https://alyssaheinze.github.io/).\
+-   ["Maha Questions From Opposition's Small Allies"](https://timesofindia.indiatimes.com/blogs/toi-edit-page/maha-questions-from-oppositions-small-allies/) *The Times of India, 2024.*\
+-   ["The Maha Gondhal: Maharashtra LS polls have never been muddier."](https://timesofindia.indiatimes.com/india/the-maha-gondhal/articleshow/110155097.cms) *The Times of India, 2024.* With [Vikramaditya Thakur](https://www.udel.edu/academics/colleges/cas/units/departments/anthropology/our-people/vikramaditya-thakur/).\
+-   ["The Politics Behind Love Jihad in India: Understanding the Spread of the Conspiracy Theory in 2014."](https://crgreview.com/the-politics-behind-love-jihad-in-indiaunderstanding-the-spread-of-the-conspiracy-theory-in-2014/) *A Contemporary Review of Genocide and Political Violence, 2023.*\
+-   ["Action As Addition – A Rejection of Consequentialising."](https://00ff1226-c9ea-453e-baa6-e67819b43f30.filesusr.com/ugd/bc8784_cc48e86634aa4c4ca45aac27c1a3ee11.pdf) *Fragments, 2021.* McGill Philosophy Journal.\
+-   ["Guardians, Citizens and The Prohibition of Private Possessions in Plato’s Republic."](https://mppsm15.medium.com/guardians-citizens-and-the-prohibition-of-private-possessions-in-platos-republic-bc97976abd9) *Liberalis Magazine, May 2021.* Liberal Project.\
+-   ["Why India’s Plan for A New Parliament May Spell A Challenging Future For Its Democracy."](https://www.mironline.ca/why-indias-plan-for-a-new-parliament-may-spell-a-challenging-future-for-its-democracy/) *The McGill International Review, May 2021.*\
+-   ["Education in India: A Duty Forsaken During COVID-19."](https://www.mironline.ca/education-in-india-a-right-forsaken-during-covid-19/) *The McGill International Review, July 2021.*

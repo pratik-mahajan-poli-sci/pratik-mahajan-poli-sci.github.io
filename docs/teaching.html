@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -120,28 +121,42 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-trestles content">
-  <div class="about-entity">
-    <img src="files/csdc teaching.jpg" class="about-image
-  rounded " style="width: 20em;">
+<main class="content" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Teaching</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
+  
+
+
 </header>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="files/csdc teaching.jpg" class="img-fluid figure-img"></p>
+<figcaption>Leading Workshop on Visual Conjoint Analysis</figcaption>
+</figure>
+</div>
 <section id="workshop-instructor" class="level4">
-<h4 data-anchor-id="workshop-instructor">Workshop Instructor</h4>
+<h4 class="anchored" data-anchor-id="workshop-instructor">Workshop Instructor</h4>
 <p><a href="https://drive.google.com/file/d/1TVPvrzCwtSQSi3-pQJyLOWKoPA0h24J-/view?usp=sharing"><strong>Conjoint Analysis: Visual and Interview Approach</strong></a> (CSDC Winter Methods School, Université de Montréal, Jan 2024)</p>
 <ul>
 <li>Introduction and a critical discussion of using graphics to conduct conjoint analyses and incorporating interviews as a robustness check while administering conjoint surveys in developing contexts where literacy levels and digital infrastructure are poor and outsider skepticism is high.</li>
 </ul>
 </section>
 <section id="ta-for-mcgill-courses" class="level4">
-<h4 data-anchor-id="ta-for-mcgill-courses">TA for McGill Courses</h4>
+<h4 class="anchored" data-anchor-id="ta-for-mcgill-courses">TA for McGill Courses</h4>
 <p><strong>POLI 311 Introduction to Quantitative Methods</strong> (Prof.&nbsp;Aaron Erlich, Jan-Apr 2024)</p>
 <ul>
 <li>Organized instruction material and facilitated weekly labs for R programming and quantitative political methodology for 50 students and managed assignment grading. Evaluation: 4.5/5</li>
@@ -160,7 +175,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </section>
 <section id="ta-for-short-courses" class="level4">
-<h4 data-anchor-id="ta-for-short-courses">TA for Short Courses</h4>
+<h4 class="anchored" data-anchor-id="ta-for-short-courses">TA for Short Courses</h4>
 <p><strong>Data Visualization in R</strong> (Dr.&nbsp;Sakeef Karim, Nov 2023 and Oct 2024, Florida State University)</p>
 <ul>
 <li>Supported a 3-day workshop on data visualization techniques in R, organized by CAnD3-FSU</li>
@@ -171,7 +186,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </section>
 <section id="grader-for-mcgill-courses" class="level4">
-<h4 data-anchor-id="grader-for-mcgill-courses">Grader for McGill Courses</h4>
+<h4 class="anchored" data-anchor-id="grader-for-mcgill-courses">Grader for McGill Courses</h4>
 <p><strong>POLI 431 Nationalism and Nation States</strong> (Prof.&nbsp;Elissa Berwick, Feb–Apr 2024)</p>
 <ul>
 <li>Grading of 77 upper-year undergraduate exams and final papers.</li>
@@ -183,9 +198,8 @@ ul.task-list li input[type="checkbox"] {
 
 
 </section>
-</main></div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -206,6 +220,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

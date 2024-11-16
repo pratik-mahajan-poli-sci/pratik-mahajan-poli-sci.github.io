@@ -9,7 +9,7 @@ about:
 toc: false
 ---
 
-### Mapping the Intersection: Average Wait Time for Housing Vouchers in Relation to Minority Household Percentage 
+### Mapping the Intersection: Average Wait Time for Housing Vouchers in Relation to Minority Household Percentage
 
 ### *(With Bertram Melix and Megan Skowronski)*
 

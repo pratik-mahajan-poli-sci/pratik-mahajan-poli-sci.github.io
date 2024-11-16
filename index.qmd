@@ -9,7 +9,7 @@ about:
   links:
     - icon: file-pdf
       text: CV
-      href: files/CV_Pratik_Mahajan_June2024.pdf
+      href: files/CV_Pratik_Mahajan_November2024.pdf
     - icon: envelope
       text: Email
       href: mailto:pratik.mahajan@mail.mcgill.ca
@@ -18,7 +18,7 @@ toc: false
 
 # Hello/Namaskar!
 
-I am a student, researcher, and practitioner of political representation and development in rural India. My academic and experiential work grapples with questions of how political representation is realized in unexpected and divergent ways, particularly among the Scheduled Tribes (*Adivasis)* and non-state interest groups that work outside the electoral channels.
+I am a student, researcher, and practitioner of political representation and development in rural India. My academic and experiential work grapples with questions of how political representation is realized in unexpected and divergent ways, particularly among the indigenous peoples (*Adivasis)* and non-state interest groups that work outside the electoral channels.
 
 I do so while balancing multiple hats, collaborating with academics and grassroots organizations (*jan sangathans),* to observe and improve gaps in political representation. I have previously worked on a project explaining the electoral and ideological dynamics of rising Hindu nationalism in constituencies reserved for Scheduled Tribes in Maharashtra. My upcoming projects involve academic and practical collaborations with grassroots organizations seeking to improve the electoral agency and participation of ethnic and gender minority voters in Maharashtra.
 

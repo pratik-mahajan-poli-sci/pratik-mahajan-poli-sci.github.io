@@ -2,16 +2,15 @@
 title: "Public Writing"
 toc: false
 ---
+-   **Review or Retention.** *The Times of India, Dec 2024* <button onclick="window.open('https://www.dropbox.com/scl/fi/w8pky5xiwz1irg7n26gyc/review-or-retention.jpg?rlkey=iuqxjbpq5uiro325t1vhtlveo&st=m8kaavak&dl=0', '_blank')">Read More</button>
 
--   **Review or Retention.** *The Times of India, Dec 2024* <button onclick="window.open('files/review or retention.jpg', '_blank')">Read More</button>
+-   **Ladki, bahin…but ethnic groups, caste too.** *The Times of India, Oct 2024* <button onclick="window.open('https://www.dropbox.com/scl/fi/24w79289gwvd244k1dtth/ladki-bahin.jpg?rlkey=no0zuwgt5oboyvk6p2ruu9ppt&st=c9jvb0ic&dl=0', '_blank')">Read More</button>
 
--   **Ladki, bahin…but ethnic groups, caste too.** *The Times of India, Oct 2024* <button onclick="window.open('files/ladki bahin.jpg', '_blank')">Read More</button>
+-   **Democracy's Slow March.** *With [Alyssa Heinze](https://alyssaheinze.github.io/).* *The Times of India, Oct 2024* <button onclick="window.open('https://www.dropbox.com/scl/fi/zbnhoumkpf03e9d9us870/democracy-on-a-slow-march.jpg?rlkey=bn9dqywsv6hsl9929ea86iuye&st=aos9cup6&dl=0', '_blank')">Read More</button>
 
--   **Democracy's Slow March.** *With [Alyssa Heinze](https://alyssaheinze.github.io/).* *The Times of India, Oct 2024* <button onclick="window.open('files/democracy slow march.jpg', '_blank')">Read More</button>
+-   **Maha Questions From Opposition's Small Allies.** *The Times of India, Sept 2024* <button onclick="window.open('https://www.dropbox.com/scl/fi/6gsbweho679ti79hxqq4i/maha-questions-from-small-allies.jpg?rlkey=5tycz1rzhz3uub3qc8h3hnd33&st=zq7jdtea&dl=0', '_blank')">Read More</button>
 
--   **Maha Questions From Opposition's Small Allies.** *The Times of India, Sept 2024* <button onclick="window.open('files/maha questions.jpg', '_blank')">Read More</button>
-
--   **Maharashtra LS polls have never been muddier.** *With [Vikramaditya Thakur](https://www.udel.edu/academics/colleges/cas/units/departments/anthropology/our-people/vikramaditya-thakur/).* *The Times of India, May 2024* <button onclick="window.open('files/maharashtra ls polls.jpg', '_blank')">Read More</button>
+-   **Maharashtra LS polls have never been muddier.** *With [Vikramaditya Thakur](https://www.udel.edu/academics/colleges/cas/units/departments/anthropology/our-people/vikramaditya-thakur/).* *The Times of India, May 2024* <button onclick="window.open('https://www.dropbox.com/scl/fi/14kpsk52qgt1r71grpg24/maha-gondhal.jpg?rlkey=ku4raynl1p0njzze8o6c9wd0h&st=irf9eprv&dl=0', '_blank')">Read More</button>
 
 -   **The Politics Behind Love Jihad in India.** *A Contemporary Review of Genocide and Political Violence, 2023* <button onclick="window.open('https://crgreview.com/the-politics-behind-love-jihad-in-indiaunderstanding-the-spread-of-the-conspiracy-theory-in-2014/', '_blank')">Read More</button>
 

@@ -3,48 +3,76 @@ title: "Teaching"
 toc: false
 ---
 
-![Leading Workshop on Visual Conjoint Analysis](files/csdc teaching.jpg)
+![Leading Workshop on Visual Conjoint Analysis](files/csdc%20teaching.jpg)
+
 
 #### Workshop Instructor
 
-[**Conjoint Analysis: Visual and Interview Approach**](https://drive.google.com/file/d/1TVPvrzCwtSQSi3-pQJyLOWKoPA0h24J-/view?usp=sharing) (CSDC Winter Methods School, Université de Montréal, Jan 2024)
+[Conjoint Analysis: Visual and Interview Approach](https://drive.google.com/file/d/1TVPvrzCwtSQSi3-pQJyLOWKoPA0h24J-/view?usp=sharing) *(CSDC Winter Methods School, Université de Montréal, Jan 2024)*
 
--   Introduction and a critical discussion of using graphics to conduct conjoint analyses and incorporating interviews as a robustness check while administering conjoint surveys in developing contexts where literacy levels and digital infrastructure are poor and outsider skepticism is high.
+<button onclick="this.nextElementSibling.style.display='block'; this.style.display='none';">Details</button>
+<div style="display:none;">
+- Introduction and a critical discussion of using graphics to conduct conjoint analyses and incorporating interviews as a robustness check while administering conjoint surveys in developing contexts where literacy levels and digital infrastructure are poor and outsider skepticism is high.
+</div>
 
 #### TA for McGill Courses
 
-**POLI 311 Introduction to Quantitative Methods** (Prof. Aaron Erlich, Jan-Apr 2024)
+**POLI 311 Introduction to Quantitative Methods** *(Prof. Aaron Erlich, Jan-Apr 2024)*
 
--   Organized instruction material and facilitated weekly labs for R programming and quantitative political methodology for 50 students and managed assignment grading. Evaluation: 4.5/5
+<button onclick="this.nextElementSibling.style.display='block'; this.style.display='none';">Details</button>
+<div style="display:none;">
+- Organized instruction material and facilitated weekly labs for R programming and quantitative political methodology for 50 students and managed assignment grading. Evaluation: 4.5/5.
+</div>
 
-**POLI 210 Political Science Research Methods** (Profs. Dietlind Stolle and Aaron Erlich, Sep-Dec 2023)
+**POLI 210 Political Science Research Methods** *(Profs. Dietlind Stolle and Aaron Erlich, Sep-Dec 2023)*
 
--   Organized instruction material and facilitated weekly labs for 90 students for R programming and evaluated quantitative and qualitative assignments. Evaluation: 4.4/5
+<button onclick="this.nextElementSibling.style.display='block'; this.style.display='none';">Details</button>
+<div style="display:none;">
+- Organized instruction material and facilitated weekly labs for 90 students for R programming and evaluated quantitative and qualitative assignments. Evaluation: 4.4/5.
+</div>
 
-**POLI 435 Identity and Inequality** (Prof. Narendra Subramanian, Jan--Apr 2023)
+**POLI 435 Identity and Inequality** *(Prof. Narendra Subramanian, Jan–Apr 2023)*
 
--   Facilitated weekly conference sections for 40 students, graded assignments and term papers. Evaluation: 4.7/5
+<button onclick="this.nextElementSibling.style.display='block'; this.style.display='none';">Details</button>
+<div style="display:none;">
+- Facilitated weekly conference sections for 40 students, graded assignments and term papers. Evaluation: 4.7/5.
+</div>
 
-**POLI 349 Foreign Policy of Asia** (Dr. Jaeyoung Kim, Sep-Dec 2022)
+**POLI 349 Foreign Policy of Asia** *(Dr. Jaeyoung Kim, Sep-Dec 2022)*
 
--   Facilitated weekly conference sections for over 70 students and managed assignment evaluations. Evaluation: 4.6/5
+<button onclick="this.nextElementSibling.style.display='block'; this.style.display='none';">Details</button>
+<div style="display:none;">
+- Facilitated weekly conference sections for over 70 students and managed assignment evaluations. Evaluation: 4.6/5.
+</div>
 
 #### TA for Short Courses
 
-**Data Visualization in R** (Dr. Sakeef Karim, Nov 2023 and Oct 2024, Florida State University)
+**Data Visualization in R** *(Dr. Sakeef Karim, Nov 2023 and Oct 2024, Florida State University)*
 
--   Supported a 3-day workshop on data visualization techniques in R, organized by CAnD3-FSU
+<button onclick="this.nextElementSibling.style.display='block'; this.style.display='none';">Details</button>
+<div style="display:none;">
+- Supported a 3-day workshop on data visualization techniques in R, organized by CAnD3-FSU.
+</div>
 
-**R Programming Summer Camp** (Prof. Tim Elrick, Aug 2023, CSDS-McGill)
+**R Programming Summer Camp** *(Prof. Tim Elrick, Aug 2023, CSDS-McGill)*
 
--   Assisted in lab sessions, and provided coding support and debugging for McGill's week-long R summer camp.
+<button onclick="this.nextElementSibling.style.display='block'; this.style.display='none';">Details</button>
+<div style="display:none;">
+- Assisted in lab sessions, and provided coding support and debugging for McGill's week-long R summer camp.
+</div>
 
 #### Grader for McGill Courses
 
-**POLI 431 Nationalism and Nation States** (Prof. Elissa Berwick, Feb--Apr 2024)
+**POLI 431 Nationalism and Nation States** *(Prof. Elissa Berwick, Feb–Apr 2024)*
 
--   Grading of 77 upper-year undergraduate exams and final papers.
+<button onclick="this.nextElementSibling.style.display='block'; this.style.display='none';">Details</button>
+<div style="display:none;">
+- Grading of 77 upper-year undergraduate exams and final papers.
+</div>
 
-**POLI 522 Politics of Identity** (Prof. Narendra Subramanian, Apr 2023)
+**POLI 522 Politics of Identity** *(Prof. Narendra Subramanian, Apr 2023)*
 
--   Grading of 10 final-year undergraduate honours seminar papers.
+<button onclick="this.nextElementSibling.style.display='block'; this.style.display='none';">Details</button>
+<div style="display:none;">
+- Grading of 10 final-year undergraduate honours seminar papers.
+</div>

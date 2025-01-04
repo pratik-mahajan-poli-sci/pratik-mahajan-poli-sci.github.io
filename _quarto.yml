@@ -16,6 +16,8 @@ website:
         text: Home
       - research.qmd
       - teaching.qmd
+      - data.qmd
+      - public writing.qmd
       - snapshots.qmd
       - cand3.qmd
     

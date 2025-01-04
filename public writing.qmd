@@ -1,0 +1,24 @@
+---
+title: "Public Writing"
+toc: false
+---
+
+-   **Review or Retention.** *The Times of India, Dec 2024* <button onclick="window.open('files/review or retention.jpg', '_blank')">Read More</button>
+
+-   **Ladki, bahin…but ethnic groups, caste too.** *The Times of India, Oct 2024* <button onclick="window.open('files/ladki bahin.jpg', '_blank')">Read More</button>
+
+-   **Democracy's Slow March.** *With [Alyssa Heinze](https://alyssaheinze.github.io/).* *The Times of India, Oct 2024* <button onclick="window.open('files/democracy slow march.jpg', '_blank')">Read More</button>
+
+-   **Maha Questions From Opposition's Small Allies.** *The Times of India, Sept 2024* <button onclick="window.open('files/maha questions.jpg', '_blank')">Read More</button>
+
+-   **Maharashtra LS polls have never been muddier.** *With [Vikramaditya Thakur](https://www.udel.edu/academics/colleges/cas/units/departments/anthropology/our-people/vikramaditya-thakur/).* *The Times of India, May 2024* <button onclick="window.open('files/maharashtra ls polls.jpg', '_blank')">Read More</button>
+
+-   **The Politics Behind Love Jihad in India.** *A Contemporary Review of Genocide and Political Violence, 2023* <button onclick="window.open('https://crgreview.com/the-politics-behind-love-jihad-in-indiaunderstanding-the-spread-of-the-conspiracy-theory-in-2014/', '_blank')">Read More</button>
+
+-   **Why India’s Plan for A New Parliament May Spell A Challenging Future For Its Democracy?** *The McGill International Review, May 2021* <button onclick="window.open('https://www.mironline.ca/why-indias-plan-for-a-new-parliament-may-spell-a-challenging-future-for-its-democracy/', '_blank')">Read More</button>
+
+-   **Education in India: A Duty Forsaken During COVID-19.** *The McGill International Review, July 2021* <button onclick="window.open('https://www.mironline.ca/education-in-india-a-right-forsaken-during-covid-19/', '_blank')">Read More</button>
+
+-   **Guardians, citizens and the prohibition of private possessions in Plato's Republic.** *Liberalis Magazine, 2021* <button onclick="window.open('files/plato republic.jpg', '_blank')">Read More</button>
+
+-   **Action as Addition: A Move Beyond Consequentializing.** *Fragments: McGill Philosophy Journal, 2021* <button onclick="window.open('https://00ff1226-c9ea-453e-baa6-e67819b43f30.filesusr.com/ugd/bc8784_cc48e86634aa4c4ca45aac27c1a3ee11.pdf', '_blank')">Read More</button>

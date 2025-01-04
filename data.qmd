@@ -1,0 +1,26 @@
+---
+title: "Data"
+toc: false
+---
+
+![Scheduled Area Subdistrics of India](files/subdistricts_scheduled_map.png)
+
+
+#### **Subdistricts of India by Scheduled Status: An Original Dataset Linked to SHRUG**
+
+<button onclick="window.open(&#39;https://doi.org/10.7910/DVN/2ZKK9U&#39;, &#39;_blank&#39;)">
+
+Harvard Dataverse Link
+
+</button>
+
+<button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
+
+Details
+
+</button>
+
+::: {style="display:none;"}
+-   5969 Indian subdistrict (tehsil/mandal/block) level spatial dataset with information on Fifth and Sixth Scheduled Areas of India.
+-   Coded with SHRUG subdistrict spatial indicators for ease of merging with other datasets at the Development Data Lab.
+:::

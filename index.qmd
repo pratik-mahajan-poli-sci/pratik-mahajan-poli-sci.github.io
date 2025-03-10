@@ -9,7 +9,7 @@ about:
   links:
     - icon: file-pdf
       text: CV
-      href: files/CV_Pratik_Mahajan_January2025.pdf
+      href: files/CV_Pratik_Mahajan_March2025.pdf
     - icon: envelope
       text: Email
       href: mailto:pratik.mahajan@mail.mcgill.ca

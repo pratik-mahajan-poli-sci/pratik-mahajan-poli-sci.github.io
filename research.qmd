@@ -51,22 +51,6 @@ Abstract
 -   **Pre-registration**: [OSF](https://osf.io/xnkqwa).
 :::
 
-#### **Changing Emic Idea of Group Identity Amongst the Bhils and Its Politics Across Generations**
-
-*Second Author With [Vikramaditya Thakur](https://www.udel.edu/academics/colleges/cas/units/departments/anthropology/our-people/vikramaditya-thakur/)*
-
-*Under development with Asian Ethnicity for special-issue*
-
-<button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
-
-Abstract
-
-</button>
-
-::: {style="display:none;"}
--   Explores the post-colonial and contemporary evolution of Bhil tribal identity. Against the misplaced conception that increased education amongst Bhils would lead to absorption into mainstream Hindu identity, this paper argues that Bhil tribal identity is seeing a revival amongst the educated and young Bhils due to electoral and social policy factors.
--   **Multi-Method Research Design**: Elite Interviews and Survey Data Analysis (by Mahajan) and Ethnography and Historiography (by Thakur).
-:::
 
 ------------------------------------------------------------------------
 
@@ -143,4 +127,8 @@ Abstract
 ::: {style="display:none;"}
 -   Investigates how rank-and-file workers in hierarchical party systems like India balance political ambition and upward mobility. Initial analysis suggests electoral ambition is mediated by mobility within the party's governing body.
 :::
+
+#### **Mapping the Intersection: Average Wait Time for Housing Vouchers in Relation to Minority Households in the United States**  
+
+*First Author With [Bertram Melix](https://www.linkedin.com/in/bertram-melix-672a12160/) and [Megan Skowronski](https://cosspp.fsu.edu/sociology/grad-students/megan-skowronski/)*  
 

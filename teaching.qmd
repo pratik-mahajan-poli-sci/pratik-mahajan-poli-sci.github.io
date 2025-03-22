@@ -33,6 +33,20 @@ Details
 -   Organized instruction material and facilitated weekly labs for R programming and quantitative political methodology for 50 students and managed assignment grading. Evaluation: 4.5/5.
 :::
 
+
+**POLI 431 Nationalism and Nation States** *(Prof. Elissa Berwick, Feb–Apr 2024)*
+
+<button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
+
+Details
+
+</button>
+
+::: {style="display:none;"}
+-   Graded midterm and final term papers of 77 undergraduate students. 
+:::
+
+
 **POLI 210 Political Science Research Methods** *(Profs. Dietlind Stolle and Aaron Erlich, Sep-Dec 2023)*
 
 <button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
@@ -90,33 +104,3 @@ Details
 Details
 
 </button>
-
-::: {style="display:none;"}
--   Assisted in lab sessions, and provided coding support and debugging for McGill's week-long R summer camp.
-:::
-
-#### Grader for McGill Courses
-
-**POLI 431 Nationalism and Nation States** *(Prof. Elissa Berwick, Feb–Apr 2024)*
-
-<button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
-
-Details
-
-</button>
-
-::: {style="display:none;"}
--   Grading of 77 upper-year undergraduate exams and final papers.
-:::
-
-**POLI 522 Politics of Identity** *(Prof. Narendra Subramanian, Apr 2023)*
-
-<button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
-
-Details
-
-</button>
-
-::: {style="display:none;"}
--   Grading of 10 final-year undergraduate honours seminar papers.
-:::

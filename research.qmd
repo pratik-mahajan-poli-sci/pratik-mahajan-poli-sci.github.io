@@ -38,7 +38,7 @@ Abstract
 
 #### **Discretionary Partisans: How Grassroots Organizations Reconcile Mandate and Electoral Engagement**
 
-*Equal Co-Author With [Feyaad Allie](https://www.feyaadallie.com/)*
+*Co-Author With [Feyaad Allie](https://www.feyaadallie.com/)*
 
 <button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
 
@@ -51,14 +51,13 @@ Abstract
 -   **Pre-registration**: [OSF](https://osf.io/xnkqwa).
 :::
 
-
 ------------------------------------------------------------------------
 
 ### Ongoing Projects
 
 #### **Organizational Expansiveness and Voter Selectivity: How Voters Respond to Partisan Mobilization by Grassroots Organizations**
 
-*Equal Co-Author With [Feyaad Allie](https://www.feyaadallie.com/)*
+*Co-Author With [Feyaad Allie](https://www.feyaadallie.com/)*
 
 <button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
 
@@ -73,7 +72,7 @@ Abstract
 
 #### **Can Knowledge Make Voters Demand Accountability for Delayed Local Government Elections?**
 
-*Equal Co-Author With [Alyssa Heinze](https://alyssaheinze.github.io/)*
+*Co-Author With [Alyssa Heinze](https://alyssaheinze.github.io/)*
 
 <button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
 
@@ -88,7 +87,7 @@ Abstract
 
 #### **Divergent Marginalization: How Indigenous and Lower Caste Women Face Divergent Outcomes in Rural Governance**
 
-*Equal Co-Author With [Alyssa Heinze](https://alyssaheinze.github.io/)*
+*Co-Author With [Alyssa Heinze](https://alyssaheinze.github.io/)*
 
 <button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
 
@@ -102,7 +101,7 @@ Abstract
 
 #### **Dynasts and Aspirational Pragmatism: The Role of Electoral Ambition in Shaping Citizens' Perceptions of Dynastic Politicians**
 
-*Equal Co-Author With [Rahul Verma](https://cprindia.org/people/rahul-verma/)*
+*Co-Author With [Rahul Verma](https://cprindia.org/people/rahul-verma/)*
 
 <button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
 
@@ -116,7 +115,7 @@ Abstract
 
 #### **Ambition Amongst Party Workers in India**
 
-*Equal Co-Author With [Feyaad Allie](https://www.feyaadallie.com/) and [Rahul Verma](https://cprindia.org/people/rahul-verma/)*
+*Co-Author With [Feyaad Allie](https://www.feyaadallie.com/) and [Rahul Verma](https://cprindia.org/people/rahul-verma/)*
 
 <button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
 
@@ -128,7 +127,6 @@ Abstract
 -   Investigates how rank-and-file workers in hierarchical party systems like India balance political ambition and upward mobility. Initial analysis suggests electoral ambition is mediated by mobility within the party's governing body.
 :::
 
-#### **Mapping the Intersection: Average Wait Time for Housing Vouchers in Relation to Minority Households in the United States**  
+#### **Mapping the Intersection: Average Wait Time for Housing Vouchers in Relation to Minority Households in the United States**
 
-*First Author With [Bertram Melix](https://www.linkedin.com/in/bertram-melix-672a12160/) and [Megan Skowronski](https://cosspp.fsu.edu/sociology/grad-students/megan-skowronski/)*  
-
+*First Author With [Bertram Melix](https://www.linkedin.com/in/bertram-melix-672a12160/) and [Megan Skowronski](https://cosspp.fsu.edu/sociology/grad-students/megan-skowronski/)*

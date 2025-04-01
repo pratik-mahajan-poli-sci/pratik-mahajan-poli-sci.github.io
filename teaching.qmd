@@ -34,19 +34,6 @@ Details
 :::
 
 
-**POLI 431 Nationalism and Nation States** *(Prof. Elissa Berwick, Feb–Apr 2024)*
-
-<button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
-
-Details
-
-</button>
-
-::: {style="display:none;"}
--   Graded midterm and final term papers of 77 undergraduate students. 
-:::
-
-
 **POLI 210 Political Science Research Methods** *(Profs. Dietlind Stolle and Aaron Erlich, Sep-Dec 2023)*
 
 <button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">

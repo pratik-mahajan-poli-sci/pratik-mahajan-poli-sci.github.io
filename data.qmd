@@ -24,10 +24,9 @@ Details
 -   Coded with SHRUG subdistrict spatial indicators for ease of merging with other datasets at the Development Data Lab.
 :::
 
+#### **All India SHRUG Shrid (Villages and Towns) Matched to Corresponding Local Governance Bodies Using LGD Codes (2025)**
 
-#### **All India Villages Matched to Corresponding Gram Panchayats Linked to SHRUG, Development Data Lab (2025)**
-
-<button onclick="window.open(&#39;https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QVFBFT&#3&#39;, &#39;_blank&#39;)">
+<button onclick="window.open(&#39;https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QVFBFT&#39;, &#39;_blank&#39;)">
 
 Harvard Dataverse Link
 
@@ -40,5 +39,7 @@ Details
 </button>
 
 ::: {style="display:none;"}
--   	This dataset uses Local Government Directory (LGD) codes assigned by the Ministry of Panchayati Raj in India to match villages to their corresponding Gram Panchayats, and further links them to SHRUG's shrid level identifiers to allow for GP level analysis of census data which is normally collected at the village level. Overall I achieve 90% accuracy in matching villages from SHRUG census identifiers with their corresponding GPs, with above 95% accuracy in most major Indian states.
+- This dataset links SHRUG's village- and town-level identifiers (shrid) to their corresponding local governance bodies using official LGD (Local Government Directory) codes from the Government of India. 
+- Each observation is matched to either a Gram Panchayat or an Urban Local Body, enabling governance-level analysis of census and economic data. 
+- The matching achieves 90.41% coverage overall, with over 95% accuracy in most major Indian states. Discrepancies are summarized in documentation. 
 :::

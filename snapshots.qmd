@@ -5,8 +5,8 @@ format:
     page-layout: full
     toc: false
 ---
-<div style="text-align: center;">
 
+::: {style="text-align: center;"}
 ![Leading Individual Forest Rights Awareness Meeting in Jalgaon](ifr%20meeting.jpg){width="600"}
 
 ![Observing a Community Forest Rights Meeting in Jalgaon](cfr%20stakeholder%20meeting.JPG){width="600"}
@@ -14,19 +14,10 @@ format:
 ![Enumerator Training in Dhule](survey%20dhule.jpg){width="600"}
 
 ![Organizing Community-Led Enumeration of Individual Forest Rights in Nandurbar](ifr%20survey%202.jpg){width="600"}
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="felicitation.JPG" alt="Felicitation" style="width: 300px;">
-  <img src="felicitation%202.JPG" alt="Felicitation 2" style="width: 300px;">
-  <img src="accept%20felicitation.JPG" alt="Accept Felicitation" style="width: 300px;">
-</div>
 
-<p style="text-align: center;"><em>Being felicitated by tribal leaders before embarking on PhD research</em></p>
-
-
-
+![Being felicitated by tribal leaders before embarking on PhD research](felicitation%20collage.jpg){width="600"}
 
 ![Observing Adivasi Forest Land Rights Movement, Sakri](protest.jpg){width="300"}
 
 ![The Tranquility of the Narmada Valley](river.jpg){width="600"}
-
-</div>
+:::

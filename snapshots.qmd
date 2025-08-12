@@ -5,18 +5,34 @@ format:
     page-layout: full
     toc: false
 ---
+<div style="text-align: center;">
 
-![Leading Individual Forest Rights Awareness Meeting in Jalgaon](files/ifr meeting.jpg)
+![Leading Individual Forest Rights Awareness Meeting in Jalgaon](ifr%20meeting.jpg){width="600"}
+
+![Observing a Community Forest Rights Meeting in Jalgaon](cfr%20stakeholder%20meeting.JPG){width="600"}
+
+![Enumerator Training in Dhule](survey%20dhule.jpg){width="600"}
+
+![Organizing Community-Led Enumeration of Individual Forest Rights in Nandurbar](ifr%20survey%202.jpg){width="600"}
+
+::: {.columns}
+::: {.column width="33%"}
+![](felicitation.jpg)
+:::
+::: {.column width="33%"}
+![](felicitation%202.jpg)
+:::
+::: {.column width="33%"}
+![](accept%20felicitation.JPG)
+:::
+:::
+
+*Being felicitated by tribal leaders before embarking on PhD research*
 
 
-![Observing a Community Forest Rights Meeting in Jalgaon](files/cfr stakeholder meeting.JPG)
 
-![Enumerator Training in Dhule](files/survey dhule.jpg)
+![Observing Adivasi Forest Land Rights Movement, Sakri](protest.jpg){width="300"}
 
-![Mapping the Conjoint Field Sites](files/mapping.jpg)
+![The Tranquility of the Narmada Valley](river.jpg){width="600"}
 
-![Observing Adivasi Forest Land Rights Movement, Sakri](files/protest.jpg)
-
-![The Tranquility of the Narmada Valley](files/river.jpg)
-
-![Adivasi Warrior, Akkalkuwa](files/warrior.jpg)
+</div>

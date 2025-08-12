@@ -6,7 +6,8 @@ format:
     toc: false
 ---
 
-![Leading Workshop on Visual Conjoint Analysis](files/csdc%20teaching.jpg)
+
+<img src="csdc teaching.jpg" width="600px"/>
 
 #### Workshop Instructor
 

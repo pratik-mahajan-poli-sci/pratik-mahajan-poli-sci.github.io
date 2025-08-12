@@ -5,8 +5,8 @@ format:
     page-layout: full
     toc: false
 ---
+<img src="subdistricts_scheduled_map.png" width="600px"/>
 
-![Scheduled Area Subdistrics of India](files/subdistricts_scheduled_map.png)
 
 #### **Subdistricts of India by Scheduled Status: An Original Dataset Linked to SHRUG**
 

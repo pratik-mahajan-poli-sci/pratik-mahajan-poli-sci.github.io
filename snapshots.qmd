@@ -17,10 +17,10 @@ format:
 
 ::: {.columns}
 ::: {.column width="33%"}
-![](felicitation.jpg)
+![](felicitation.JPG)
 :::
 ::: {.column width="33%"}
-![](felicitation%202.jpg)
+![](felicitation%202.JPG)
 :::
 ::: {.column width="33%"}
 ![](accept%20felicitation.JPG)

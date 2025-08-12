@@ -17,8 +17,8 @@ website:
       - research.qmd
       - teaching.qmd
       - data.qmd
-      - snapshots.qmd
       - public writing.qmd
+      - snapshots.qmd
     
      
 

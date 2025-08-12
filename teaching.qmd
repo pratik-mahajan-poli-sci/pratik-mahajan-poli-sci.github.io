@@ -1,0 +1,75 @@
+---
+title: "Teaching"
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+
+<img src="csdc teaching.jpg" width="600px"/>
+
+#### Workshop Instructor
+
+[Conjoint Analysis: Visual and Interview Approach](https://drive.google.com/file/d/1TVPvrzCwtSQSi3-pQJyLOWKoPA0h24J-/view?usp=sharing) *(CSDC Winter Methods School, Université de Montréal, Jan 2024)*
+
+<button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
+
+Details
+
+</button>
+
+::: {style="display:none;"}
+-   Introduction and a critical discussion of using graphics to conduct conjoint analyses and incorporating interviews as a robustness check while administering conjoint surveys in developing contexts where literacy levels and digital infrastructure are poor and outsider skepticism is high.
+:::
+
+#### TA for McGill Courses
+
+**POLI 311 Introduction to Quantitative Methods** *(Prof. Aaron Erlich, Jan-Apr 2024)*
+
+<button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
+
+Details
+
+</button>
+
+::: {style="display:none;"}
+-   Organized instruction material and facilitated weekly labs for R programming and quantitative political methodology for 50 students and managed assignment grading. Evaluation: 4.5/5.
+:::
+
+
+**POLI 210 Political Science Research Methods** *(Profs. Dietlind Stolle and Aaron Erlich, Sep-Dec 2023)*
+
+<button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
+
+Details
+
+</button>
+
+::: {style="display:none;"}
+-   Organized instruction material and facilitated weekly labs for 90 students for R programming and evaluated quantitative and qualitative assignments. Evaluation: 4.4/5.
+:::
+
+**POLI 435 Identity and Inequality** *(Prof. Narendra Subramanian, Jan–Apr 2023)*
+
+<button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
+
+Details
+
+</button>
+
+::: {style="display:none;"}
+-   Facilitated weekly conference sections for 40 students, graded assignments and term papers. Evaluation: 4.7/5.
+:::
+
+**POLI 349 Foreign Policy of Asia** *(Dr. Jaeyoung Kim, Sep-Dec 2022)*
+
+<button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
+
+Details
+
+</button>
+
+::: {style="display:none;"}
+-   Facilitated weekly conference sections for over 70 students and managed assignment evaluations. Evaluation: 4.6/5.
+:::

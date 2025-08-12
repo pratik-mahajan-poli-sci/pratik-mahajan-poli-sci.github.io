@@ -1,0 +1,23 @@
+---
+title: "Fieldwork"
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+::: {style="text-align: center;"}
+![Leading Individual Forest Rights Awareness Meeting in Jalgaon](ifr%20meeting.jpg){width="600"}
+
+![Observing a Community Forest Rights Meeting in Jalgaon](cfr%20stakeholder%20meeting.JPG){width="600"}
+
+![Enumerator Training in Dhule](survey%20dhule.jpg){width="600"}
+
+![Organizing Community-Led Enumeration of Individual Forest Rights in Nandurbar](ifr%20survey%202.jpg){width="600"}
+
+![Being felicitated by tribal leaders before embarking on PhD research](felicitation%20collage.jpg){width="600"}
+
+![Observing Adivasi Forest Land Rights Movement, Sakri](protest.jpg){width="300"}
+
+![The Tranquility of the Narmada Valley](river.jpg){width="600"}
+:::

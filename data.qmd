@@ -1,0 +1,48 @@
+---
+title: "Data"
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+<img src="subdistricts_scheduled_map.png" width="600px"/>
+
+
+#### **Subdistricts of India by Scheduled Status: An Original Dataset Linked to SHRUG**
+
+<button onclick="window.open(&#39;https://doi.org/10.7910/DVN/2ZKK9U&#39;, &#39;_blank&#39;)">
+
+Harvard Dataverse Link
+
+</button>
+
+<button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
+
+Details
+
+</button>
+
+::: {style="display:none;"}
+-   5969 Indian subdistrict (tehsil/mandal/block) level spatial dataset with information on Fifth and Sixth Scheduled Areas of India.
+-   Coded with SHRUG subdistrict spatial indicators for ease of merging with other datasets at the Development Data Lab.
+:::
+
+#### **All India SHRUG Shrid (Villages and Towns) Matched to Corresponding Local Governance Bodies Using LGD Codes (2025)**
+
+<button onclick="window.open(&#39;https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QVFBFT&#39;, &#39;_blank&#39;)">
+
+Harvard Dataverse Link
+
+</button>
+
+<button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
+
+Details
+
+</button>
+
+::: {style="display:none;"}
+- This dataset links SHRUG's village- and town-level identifiers (shrid) to their corresponding local governance bodies using official LGD (Local Government Directory) codes from the Government of India. 
+- Each observation is matched to either a Gram Panchayat or an Urban Local Body, enabling governance-level analysis of census and economic data. 
+- The matching achieves 90.41% coverage overall, with over 95% accuracy in most major Indian states. Discrepancies are summarized in documentation. 
+:::

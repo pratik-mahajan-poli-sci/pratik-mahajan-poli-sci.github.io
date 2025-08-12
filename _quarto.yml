@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+  
+html-head:
+  - link:
+      rel: stylesheet
+      href: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css
+
+      
+website:
+  title: "Pratik Mahajan"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - teaching.qmd
+      - data.qmd
+      - public writing.qmd
+      - snapshots.qmd
+    
+     
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+
+editor: visual
+
+
+
+
+

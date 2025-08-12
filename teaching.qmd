@@ -7,7 +7,7 @@ format:
 ---
 
 
-<img src="csdc teaching.jpg" width="600px"/>
+<img src="files/csdc teaching.jpg" width="600px"/>
 
 #### Workshop Instructor
 

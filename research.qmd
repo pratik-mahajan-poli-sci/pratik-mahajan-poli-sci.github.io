@@ -44,14 +44,14 @@ function toggleAbstract(btn) {
 ## Tribal and Forest Governance
 
 ::: {style="text-align: left;"}
-<img src="landing page image.jpg" width="300px"/>
+<img src="files/landing page image.jpg" width="300px"/>
 :::
 
 **Property, Power, and Participation: How Land and Political Rights Transform Forest Governance in Tribal India** [(Dissertation in Progress)]{.coauthor-note}
 
 ## Responses to Democratic Backsliding
 
-<img src="cso endorse.jpg" width="300px"/>
+<img src="files/cso endorse.jpg" width="300px"/>
 
 **How Discretion Shapes Civil Society--Opposition Party Alliances Against Democratic Backsliding** [With <a href="https://www.feyaadallie.com/">Feyaad Allie</a> — (Working Paper)]{.coauthor-note} <button class="abstract-toggle" onclick="toggleAbstract(this)">Abstract</button>
 
@@ -77,7 +77,7 @@ Most research on democratic backsliding focuses on institutional erosion and eli
 
 ## Political Candidacy and Representation
 
-<img src="pw training.jpg" width="300px"/>
+<img src="files/pw training.jpg" width="300px"/>
 
 **Brokered Majoritarianism: Turncoat Minority Politicians and Mixed Returns to Ideological Transformation** [(Working Paper under review)]{.coauthor-note} <button class="abstract-toggle" onclick="toggleAbstract(this)">Abstract</button>
 

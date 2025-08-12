@@ -1,6 +1,9 @@
 ---
 title: "Data"
-toc: false
+format:
+  html:
+    page-layout: full
+    toc: false
 ---
 
 ![Scheduled Area Subdistrics of India](files/subdistricts_scheduled_map.png)

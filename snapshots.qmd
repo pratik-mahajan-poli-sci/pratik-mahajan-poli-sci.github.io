@@ -1,13 +1,21 @@
 ---
-title: "Political Eye"
-toc: false
+title: "Fieldwork"
+format:
+  html:
+    page-layout: full
+    toc: false
 ---
 
-![Bus Broke Down En Route Field Site](files/bus.jpg)
+![Leading Individual Forest Rights Awareness Meeting in Jalgaon](files/ifr meeting.jpg)
+
+
+![Observing a Community Forest Rights Meeting in Jalgaon](files/cfr stakeholder meeting.JPG)
+
+![Enumerator Training in Dhule](files/survey dhule.jpg)
 
 ![Mapping the Conjoint Field Sites](files/mapping.jpg)
 
-![Adivasi Forest Land Rights Movement, Sakri](files/protest.jpg)
+![Observing Adivasi Forest Land Rights Movement, Sakri](files/protest.jpg)
 
 ![The Tranquility of the Narmada Valley](files/river.jpg)
 

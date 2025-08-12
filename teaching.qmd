@@ -1,6 +1,9 @@
 ---
 title: "Teaching"
-toc: false
+format:
+  html:
+    page-layout: full
+    toc: false
 ---
 
 ![Leading Workshop on Visual Conjoint Analysis](files/csdc%20teaching.jpg)
@@ -69,25 +72,3 @@ Details
 ::: {style="display:none;"}
 -   Facilitated weekly conference sections for over 70 students and managed assignment evaluations. Evaluation: 4.6/5.
 :::
-
-#### TA for Short Courses
-
-**Data Visualization in R** *(Dr. Sakeef Karim, Nov 2023 and Oct 2024, Florida State University)*
-
-<button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
-
-Details
-
-</button>
-
-::: {style="display:none;"}
--   Supported a 3-day workshop on data visualization techniques in R, organized by CAnD3-FSU.
-:::
-
-**R Programming Summer Camp** *(Prof. Tim Elrick, Aug 2023, CSDS-McGill)*
-
-<button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === &#39;block&#39; ? &#39;none&#39; : &#39;block&#39;;">
-
-Details
-
-</button>

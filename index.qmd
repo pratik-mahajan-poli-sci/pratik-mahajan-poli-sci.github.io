@@ -11,7 +11,7 @@ format:
     code-link: true
     grid:
       body-width: 900px
-image: "files/Pratik Informal headshot.jpg"
+image: "files/Pratik Informal headshot.JPG"
 about: 
   template: trestles
   image-shape: rounded

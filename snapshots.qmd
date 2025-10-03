@@ -1,5 +1,5 @@
 ---
-title: "Fieldwork"
+title: "Field Gallery"
 format:
   html:
     page-layout: full

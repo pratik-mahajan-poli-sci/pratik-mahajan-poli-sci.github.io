@@ -24,28 +24,16 @@ document.addEventListener('click', function(e){
 </script>
 
 ```
-## Tribal and Forest Governance
+## Forest and Indigenous Governance
 
 <img src="files/landing page image.jpg" width="300px"/>
 
 
 **Property, Power, and Participation: How Land and Political Rights Transform Forest Governance in Tribal India** [(Dissertation in Progress)]{.coauthor-note}
 
-## Political Intermediaries
+## Political Representation and Linkage
 
-<img src="files/cso endorse.jpg" width="300px"/>
-
-<div class="paper">
-<strong>Brokered Majoritarianism: Turncoat Minority Politicians and Mixed Returns to Ideological Transformation</strong>
-<span class="coauthor-note">(Working Paper under review)</span>
-<button class="abstract-toggle">Abstract</button>
-<div class="abstract-box">
-
-In ethnically diverse democracies, majoritarian parties often incorporate embedded minority leaders to expand their base. While this enables outreach into new constituencies, its impact on ideological transformation remains underexplored. This paper develops the concept of brokered majoritarianism, where parties outsource minority outreach to turncoats—elites who defect from rival parties but retain community networks. These figures deliver votes but compensate for their majoritarian alignment by reinforcing minority identity. I test this in India, where the Bharatiya Janata Party (BJP) has relied on turncoats from lower-caste (SC) and Indigenous (ST) backgrounds. A vignette experiment with 1,570 SC and ST voters shows that when a co-ethnic BJP politician is a turncoat, they are seen as more powerful than the party and expected to prioritize co-ethnic interests over majoritarian goals. A case study and a visual conjoint experiment in an Indigenous constituency reveal that turncoats dominate party–voter linkage, and compensate Hindu nationalism by amplifying Indigenous identity amongst the base. Brokered majoritarianism thus explains how majoritarian parties can expand electorally while remaining ideologically constrained, decoupling voter alignment from ideological transformation, where minority ethnic identity persists amid all-encompassing majoritarian projects.
-
-</div>
-</div>
-
+<img src="files/pw training.jpg" width="300px"/>
 
 <div class="paper">
 <strong>How Discretion Shapes Intermediary Linkages Between Political Parties and Civil Society Organizations</strong>
@@ -57,7 +45,6 @@ In some contexts, civil society organizations (CSOs) without prior partisan ties
 
 </div>
 </div>
-
 
 <div class="paper">
 <strong>When Civil Society Overreaches: Voter Aversion to Expansive Civil Society Electoral Mobilization</strong>
@@ -81,11 +68,6 @@ Hierarchical structures are central to how political parties function, yet we kn
 
 </div>
 </div>
-
-
-## Political Representation
-
-<img src="files/pw training.jpg" width="300px"/>
 
 
 <div class="paper">

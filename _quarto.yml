@@ -15,8 +15,8 @@ website:
       - href: index.qmd
         text: Home
       - research.qmd
-      - teaching.qmd
       - data.qmd
+      - teaching.qmd
       - public writing.qmd
       - snapshots.qmd
     

@@ -8,33 +8,6 @@ format:
 
 ```{=html}
 <div class="page-shell">
-  <p class="page-lead">My teaching centers on political science methods, field research design, and clear quantitative instruction. I have taught workshops and supported undergraduate courses in methods, inequality, and Asian politics.</p>
-
-  <section class="section-block">
-    <h2 class="section-title">Workshop Instruction</h2>
-    <div class="feature-layout">
-      <figure class="feature-figure">
-        <img src="csdc%20teaching.jpg" alt="Teaching at the CSDC Winter Methods School.">
-        <figcaption>Methods instruction on survey design and conjoint analysis</figcaption>
-      </figure>
-      <div class="card-stack">
-        <article class="entry-card">
-          <h3>Conjoint Analysis: Visual and Interview Approach</h3>
-          <div class="meta-row">
-            <p class="meta-text"><em>CSDC Winter Methods School, Universite de Montreal, Jan 2024</em></p>
-            <a class="link-pill" href="CSDC_Winter_Methods_Conjoint_Analysis_Pratik%20Mahajan.pdf">Slides</a>
-            <details class="inline-toggle">
-              <summary>Details</summary>
-              <div class="toggle-panel">
-                <p>Introduction and a critical discussion of using graphics to conduct conjoint analyses and incorporating interviews as a robustness check while administering conjoint surveys in developing contexts where literacy levels and digital infrastructure are poor and outsider skepticism is high.</p>
-              </div>
-            </details>
-          </div>
-        </article>
-      </div>
-    </div>
-  </section>
-
   <section class="section-block">
     <h2 class="section-title">Teaching Assistantships</h2>
     <div class="card-grid two-up">
@@ -93,6 +66,31 @@ format:
           </details>
         </div>
       </article>
+    </div>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">Workshop Instruction</h2>
+    <div class="feature-layout">
+      <figure class="feature-figure">
+        <img src="csdc%20teaching.jpg" alt="Teaching at the CSDC Winter Methods School.">
+        <figcaption>Methods instruction on survey design and conjoint analysis</figcaption>
+      </figure>
+      <div class="card-stack">
+        <article class="entry-card">
+          <h3>Conjoint Analysis: Visual and Interview Approach</h3>
+          <div class="meta-row">
+            <p class="meta-text"><em>CSDC Winter Methods School, Universite de Montreal, Jan 2024</em></p>
+            <a class="link-pill" href="CSDC_Winter_Methods_Conjoint_Analysis_Pratik%20Mahajan.pdf">Slides</a>
+            <details class="inline-toggle">
+              <summary>Details</summary>
+              <div class="toggle-panel">
+                <p>Introduction and a critical discussion of using graphics to conduct conjoint analyses and incorporating interviews as a robustness check while administering conjoint surveys in developing contexts where literacy levels and digital infrastructure are poor and outsider skepticism is high.</p>
+              </div>
+            </details>
+          </div>
+        </article>
+      </div>
     </div>
   </section>
 </div>

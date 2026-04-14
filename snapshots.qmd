@@ -8,8 +8,6 @@ format:
 
 ```{=html}
 <div class="page-shell">
-  <p class="page-lead">Selected photographs from fieldwork, trainings, public events, and research travel. These are some of the places, meetings, and collaborations that shape the work behind the papers and datasets.</p>
-
   <section class="section-block">
     <h2 class="section-title">Field Notes in Images</h2>
     <div class="gallery-grid">

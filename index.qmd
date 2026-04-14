@@ -10,7 +10,7 @@ format:
     code-link: true
     grid:
       body-width: 900px
-image: "Pratik Informal headshot.JPG"
+image: "Pratik Informal headshot.jpg"
 about: 
   template: trestles
   image-shape: rounded
@@ -32,8 +32,8 @@ about:
 
 # Hello! जिंदाबाद!
 
-I am a student and researcher of governance and development in South Asia. My academic and experiential work grapples with questions of how political representation and development is realized in unexpected and divergent ways, particularly in India. **I am currently a PhD student in the Department of Political Science at Yale University.**
+I am a student and researcher of governance and development in South Asia. My academic and experiential work grapples with questions of how political representation and development is realized in unexpected and divergent ways, particularly among indigenous (*Adivasi)* communities in India. **I am currently a PhD student in the Department of Political Science at Yale University.**
 
-My prospective dissertation project examines how granting of property and representational rights transform forests and self-governance by tribal communities in India. In parallel, I study political representation and linkage, exploring how citizens are connected to and represented within parties and elected institutions.
+My prospective dissertation project examines how granting of property and representational rights transform forests and self-governance by indigenous communities in India. In parallel, I study political representation and linkage, exploring how citizens are connected to and represented within parties and elected institutions.
 
 I bring multiple years of observing governance and claim-making by tribal communities in Western India - across the states of Gujarat, Maharashtra, and Madhya Pradesh - to my research. I have extensive experience in leading large survey teams for my projects and creating original observational datasets of rural governance bodies in India.

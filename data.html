@@ -97,12 +97,12 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
-<span class="menu-text">Teaching</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link active" href="./data.html" aria-current="page"> 
 <span class="menu-text">Data</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./teaching.html"> 
+<span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./public writing.html"> 
@@ -110,7 +110,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./snapshots.html"> 
-<span class="menu-text">Fieldwork</span></a>
+<span class="menu-text">Field Gallery</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -146,40 +146,57 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><img src="files/subdistricts_scheduled_map.png" width="600px"></p>
-<section id="subdistricts-of-india-by-scheduled-status-an-original-dataset-linked-to-shrug" class="level4">
-<h4 class="anchored" data-anchor-id="subdistricts-of-india-by-scheduled-status-an-original-dataset-linked-to-shrug"><strong>Subdistricts of India by Scheduled Status: An Original Dataset Linked to SHRUG</strong></h4>
-<button onclick="window.open('https://doi.org/10.7910/DVN/2ZKK9U', '_blank')">
-<p>Harvard Dataverse Link</p>
-</button>
-<button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === 'block' ? 'none' : 'block';">
-<p>Details</p>
-</button>
-<div style="display:none;">
-<ul>
-<li>5969 Indian subdistrict (tehsil/mandal/block) level spatial dataset with information on Fifth and Sixth Scheduled Areas of India.</li>
-<li>Coded with SHRUG subdistrict spatial indicators for ease of merging with other datasets at the Development Data Lab.</li>
-</ul>
-</div>
-</section>
-<section id="all-india-shrug-shrid-villages-and-towns-matched-to-corresponding-local-governance-bodies-using-lgd-codes-2025" class="level4">
-<h4 class="anchored" data-anchor-id="all-india-shrug-shrid-villages-and-towns-matched-to-corresponding-local-governance-bodies-using-lgd-codes-2025"><strong>All India SHRUG Shrid (Villages and Towns) Matched to Corresponding Local Governance Bodies Using LGD Codes (2025)</strong></h4>
-<button onclick="window.open('https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QVFBFT', '_blank')">
-<p>Harvard Dataverse Link</p>
-</button>
-<button onclick="let content = this.nextElementSibling; content.style.display = content.style.display === 'block' ? 'none' : 'block';">
-<p>Details</p>
-</button>
-<div style="display:none;">
-<ul>
-<li>This dataset links SHRUG’s village- and town-level identifiers (shrid) to their corresponding local governance bodies using official LGD (Local Government Directory) codes from the Government of India.</li>
-<li>Each observation is matched to either a Gram Panchayat or an Urban Local Body, enabling governance-level analysis of census and economic data.</li>
-<li>The matching achieves 90.41% coverage overall, with over 95% accuracy in most major Indian states. Discrepancies are summarized in documentation.</li>
-</ul>
+<div class="page-shell">
+  <p class="page-lead">I build and publish original datasets that link administrative geography, scheduled status, and local governance institutions in India. These data products are designed to make governance research easier to merge, map, and extend.</p>
+
+  <section class="section-block">
+    <h2 class="section-title anchored">Published Datasets</h2>
+    <div class="feature-layout">
+      <figure class="feature-figure figure">
+        <img src="subdistricts_scheduled_map.png" alt="Map from published dataset on scheduled status and local governance in India." class="figure-img">
+        <figcaption>Scheduled status, spatial matching, and local governance data</figcaption>
+      </figure>
+      <div class="card-stack">
+        <article class="entry-card">
+          <h3 class="anchored">Subdistricts of India by Scheduled Status: An Original Dataset Linked to SHRUG</h3>
+          <div class="meta-row">
+            <span class="pill alt">Development Data Lab, 2024</span>
+            <a class="link-pill" href="https://doi.org/10.7910/DVN/2ZKK9U">Harvard Dataverse</a>
+            <details class="inline-toggle">
+              <summary>Dataset Details</summary>
+              <div class="toggle-panel">
+                <ul class="clean-list">
+                  <li>5969 Indian subdistrict level spatial dataset with information on Fifth and Sixth Scheduled Areas of India.</li>
+                  <li>Coded with SHRUG subdistrict spatial indicators for ease of merging with other datasets at the Development Data Lab.</li>
+                </ul>
+              </div>
+            </details>
+          </div>
+        </article>
+
+        <article class="entry-card">
+          <h3 class="anchored">All India SHRUG Shrid (Villages and Towns) Matched to Corresponding Local Governance Bodies Using LGD Codes</h3>
+          <div class="meta-row">
+            <span class="pill alt">2025</span>
+            <a class="link-pill" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QVFBFT">Harvard Dataverse</a>
+            <details class="inline-toggle">
+              <summary>Dataset Details</summary>
+              <div class="toggle-panel">
+                <ul class="clean-list">
+                  <li>This dataset links SHRUG's village and town identifiers to their corresponding local governance bodies using official LGD codes from the Government of India.</li>
+                  <li>Each observation is matched to either a Gram Panchayat or an Urban Local Body, enabling governance-level analysis of census and economic data.</li>
+                  <li>The matching achieves 90.41% coverage overall, with over 95% accuracy in most major Indian states. Remaining discrepancies are summarized in the documentation.</li>
+                </ul>
+              </div>
+            </details>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
 </div>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

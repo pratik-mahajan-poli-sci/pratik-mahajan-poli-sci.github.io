@@ -23,3 +23,558 @@
 body.index .main-container {
   max-width: 100%;
 }
+
+/* Site refresh */
+:root {
+  --site-bg: #f6efe4;
+  --site-panel: #fffaf4;
+  --site-panel-strong: #fffdf9;
+  --site-border: #e6d8c2;
+  --site-ink: #32281d;
+  --site-muted: #675c4f;
+  --site-accent: #2f5b4c;
+  --site-accent-soft: #d8e6de;
+  --site-warm: #a56233;
+  --site-shadow: 0 18px 40px rgba(47, 33, 16, 0.08);
+}
+
+body {
+  background:
+    radial-gradient(circle at top left, rgba(216, 230, 222, 0.7), transparent 28rem),
+    radial-gradient(circle at top right, rgba(231, 212, 185, 0.65), transparent 24rem),
+    linear-gradient(180deg, #fcf8f1 0%, var(--site-bg) 100%);
+  color: var(--site-ink);
+}
+
+body .navbar {
+  background: rgba(39, 30, 22, 0.94) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 10px 24px rgba(18, 12, 8, 0.22);
+}
+
+body .navbar-brand,
+body .navbar-nav .nav-link {
+  color: #f8f2e9 !important;
+  letter-spacing: 0.12em;
+}
+
+body .navbar-nav .nav-link:hover,
+body .navbar-nav .nav-link:focus,
+body .navbar-brand:hover,
+body .navbar-brand:focus,
+body .navbar-nav .nav-link.active {
+  color: #ffffff !important;
+}
+
+body .navbar .navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.22);
+}
+
+body .navbar .navbar-toggler-icon {
+  filter: invert(1);
+}
+
+main.content.column-page,
+.quarto-about-trestles .about-contents {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+#title-block-header {
+  margin-bottom: 1.8rem;
+}
+
+#title-block-header .title {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  text-transform: none;
+  letter-spacing: 0.04em;
+  font-weight: 700;
+}
+
+.page-shell {
+  display: grid;
+  gap: 2rem;
+}
+
+.page-lead {
+  max-width: 48rem;
+  margin: 0;
+  color: var(--site-muted);
+  font-size: 1.03rem;
+  line-height: 1.85;
+  letter-spacing: 0.01em;
+}
+
+.section-block {
+  display: grid;
+  gap: 1.2rem;
+  margin: 0 0 2.75rem;
+}
+
+.section-title {
+  margin: 0;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 1.45rem;
+  font-weight: 700;
+  text-transform: none;
+  letter-spacing: 0.02em;
+  color: var(--site-ink);
+}
+
+.section-copy {
+  max-width: 46rem;
+  margin: 0;
+  color: var(--site-muted);
+  line-height: 1.8;
+}
+
+.feature-layout {
+  display: grid;
+  grid-template-columns: minmax(260px, 340px) minmax(0, 1fr);
+  gap: 1.75rem 2rem;
+  align-items: start;
+}
+
+.feature-figure {
+  margin: 0;
+}
+
+.feature-figure img {
+  display: block;
+  width: 100%;
+  border-radius: 24px;
+  box-shadow: var(--site-shadow);
+}
+
+.feature-figure figcaption {
+  margin-top: 0.85rem;
+  color: var(--site-muted);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.card-stack,
+.card-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.card-grid.two-up {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.entry-card,
+.writing-card,
+.signal-card,
+.home-link-card {
+  border: 1px solid var(--site-border);
+  background: linear-gradient(180deg, var(--site-panel-strong) 0%, var(--site-panel) 100%);
+  box-shadow: 0 10px 24px rgba(41, 31, 20, 0.05);
+}
+
+.entry-card,
+.signal-card {
+  padding: 1.2rem 1.3rem;
+  border-radius: 22px;
+}
+
+.entry-card h3,
+.writing-card h3,
+.home-link-card strong,
+.signal-card strong {
+  margin: 0;
+  color: var(--site-ink);
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.entry-card h3,
+.writing-card h3 {
+  font-size: 1.1rem;
+  line-height: 1.38;
+}
+
+.meta-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.55rem 0.7rem;
+  margin-top: 0.72rem;
+}
+
+.meta-row.tight {
+  margin-top: 0.5rem;
+}
+
+.meta-text {
+  margin: 0;
+  color: var(--site-muted);
+  font-size: 0.93rem;
+  line-height: 1.6;
+  letter-spacing: 0;
+}
+
+.meta-text em {
+  font-style: italic;
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.34rem 0.72rem;
+  border-radius: 999px;
+  background: #efe2cf;
+  color: #65451d;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.pill.alt {
+  background: var(--site-accent-soft);
+  color: var(--site-accent);
+}
+
+.link-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.46rem 0.9rem;
+  border-radius: 999px;
+  border: 1px solid rgba(47, 91, 76, 0.16);
+  background: rgba(47, 91, 76, 0.08);
+  color: var(--site-accent);
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: transform 160ms ease, background-color 160ms ease, border-color 160ms ease;
+}
+
+.link-pill:hover,
+.link-pill:focus {
+  color: var(--site-accent);
+  background: rgba(47, 91, 76, 0.14);
+  border-color: rgba(47, 91, 76, 0.26);
+  transform: translateY(-1px);
+}
+
+details.inline-toggle {
+  display: inline-flex;
+  flex-direction: column;
+  flex: 0 0 auto;
+}
+
+details.inline-toggle[open] {
+  flex-basis: 100%;
+}
+
+details.inline-toggle summary {
+  list-style: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.46rem 0.9rem;
+  border-radius: 999px;
+  border: 1px solid #d8cab4;
+  background: #fff8ef;
+  color: var(--site-ink);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  cursor: pointer;
+  user-select: none;
+}
+
+details.inline-toggle summary::-webkit-details-marker {
+  display: none;
+}
+
+details.inline-toggle summary::before {
+  content: "+";
+  font-size: 0.9rem;
+  line-height: 1;
+}
+
+details.inline-toggle[open] summary {
+  background: #f2e5d0;
+  border-color: #c9a978;
+}
+
+details.inline-toggle[open] summary::before {
+  content: "-";
+}
+
+.toggle-panel {
+  margin-top: 0.9rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid #e6dccb;
+  border-radius: 16px;
+  background: #fff;
+  color: #4d463d;
+  line-height: 1.75;
+}
+
+.toggle-panel p:last-child,
+.toggle-panel ul:last-child {
+  margin-bottom: 0;
+}
+
+.clean-list {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+
+.clean-list li + li {
+  margin-top: 0.45rem;
+}
+
+.writing-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.writing-card {
+  display: grid;
+  overflow: hidden;
+  border-radius: 24px;
+}
+
+.writing-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+.writing-card-body {
+  display: grid;
+  gap: 0.65rem;
+  padding: 1.05rem 1.15rem 1.2rem;
+}
+
+.eyebrow {
+  margin: 0;
+  color: var(--site-warm);
+  font-size: 0.73rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.writing-note {
+  margin: 0;
+  color: var(--site-muted);
+  font-size: 0.9rem;
+  line-height: 1.65;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.gallery-card {
+  grid-column: span 6;
+  margin: 0;
+  overflow: hidden;
+  border-radius: 24px;
+  border: 1px solid var(--site-border);
+  background: linear-gradient(180deg, var(--site-panel-strong) 0%, var(--site-panel) 100%);
+  box-shadow: 0 10px 24px rgba(41, 31, 20, 0.05);
+}
+
+.gallery-card.wide {
+  grid-column: span 7;
+}
+
+.gallery-card.narrow {
+  grid-column: span 5;
+}
+
+.gallery-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.gallery-card figcaption {
+  padding: 0.95rem 1rem 1.1rem;
+  color: var(--site-ink);
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.quarto-about-trestles {
+  gap: 2rem;
+}
+
+.quarto-about-trestles .about-entity {
+  padding: 1.4rem;
+  border-radius: 28px;
+  border: 1px solid var(--site-border);
+  background: linear-gradient(180deg, #fffdf9 0%, #f8efe3 100%);
+  box-shadow: var(--site-shadow);
+  position: sticky;
+  top: 6rem;
+}
+
+.quarto-about-trestles .about-image {
+  border-radius: 24px;
+  box-shadow: 0 16px 34px rgba(31, 24, 15, 0.14);
+}
+
+.quarto-about-trestles .description {
+  color: var(--site-muted);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 0.78rem;
+}
+
+.quarto-about-trestles .about-link {
+  border-radius: 999px;
+  border: 1px solid var(--site-border);
+  background: rgba(255, 255, 255, 0.7);
+  padding: 0.5rem 0.95rem;
+}
+
+.quarto-about-trestles #quarto-document-content h1 {
+  margin-bottom: 1rem;
+  color: var(--site-ink);
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: clamp(2.1rem, 5vw, 3.4rem);
+  line-height: 1.05;
+  letter-spacing: 0.01em;
+  text-transform: none;
+}
+
+.quarto-about-trestles #quarto-document-content p {
+  max-width: 47rem;
+  color: var(--site-muted);
+  font-size: 1.02rem;
+  line-height: 1.88;
+}
+
+.home-strip,
+.home-highlights {
+  display: grid;
+  gap: 1rem;
+}
+
+.home-strip {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 1.7rem 0 1rem;
+}
+
+.signal-card span {
+  display: block;
+  margin-bottom: 0.45rem;
+  color: var(--site-warm);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.signal-card strong {
+  display: block;
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+
+.signal-card p {
+  margin: 0.55rem 0 0;
+  color: var(--site-muted);
+  font-size: 0.92rem;
+  line-height: 1.65;
+}
+
+.home-highlights {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 0.25rem;
+}
+
+.home-link-card {
+  display: grid;
+  gap: 0.65rem;
+  padding: 1.15rem 1.2rem;
+  border-radius: 24px;
+  text-decoration: none;
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+
+.home-link-card:hover,
+.home-link-card:focus {
+  text-decoration: none;
+  transform: translateY(-2px);
+  border-color: #d8c8ae;
+  box-shadow: 0 16px 30px rgba(41, 31, 20, 0.08);
+}
+
+.home-link-card span {
+  color: var(--site-accent);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.home-link-card strong {
+  font-size: 1.08rem;
+  line-height: 1.35;
+}
+
+.home-link-card p {
+  margin: 0;
+  color: var(--site-muted);
+  font-size: 0.92rem;
+  line-height: 1.7;
+}
+
+@media (max-width: 991px) {
+  .feature-layout,
+  .card-grid.two-up,
+  .writing-grid,
+  .home-strip,
+  .home-highlights {
+    grid-template-columns: 1fr;
+  }
+
+  .gallery-card,
+  .gallery-card.wide,
+  .gallery-card.narrow {
+    grid-column: span 12;
+  }
+
+  .quarto-about-trestles .about-entity {
+    position: static;
+  }
+}
+
+@media (max-width: 767px) {
+  main.content.column-page {
+    padding-left: 0.35rem;
+    padding-right: 0.35rem;
+  }
+
+  .entry-card,
+  .signal-card,
+  .home-link-card,
+  .writing-card-body {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .gallery-grid {
+    gap: 0.85rem;
+  }
+}

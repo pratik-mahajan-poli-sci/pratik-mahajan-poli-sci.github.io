@@ -6,21 +6,53 @@ format:
     toc: false
 ---
 
-::: {style="text-align: center;"}
-![Leading Individual Forest Rights Awareness Meeting in Jalgaon](files/ifr%20meeting.jpg){width="600"}
+```{=html}
+<div class="page-shell">
+  <p class="page-lead">Selected photographs from fieldwork, trainings, public events, and research travel. These are some of the places, meetings, and collaborations that shape the work behind the papers and datasets.</p>
 
-![Observing a Community Forest Rights Meeting in Jalgaon](files/cfr%20stakeholder%20meeting.JPG){width="600"}
+  <section class="section-block">
+    <h2 class="section-title">Field Notes in Images</h2>
+    <div class="gallery-grid">
+      <figure class="gallery-card wide">
+        <img src="ifr%20meeting.jpg" alt="Leading Individual Forest Rights Awareness Meeting in Jalgaon.">
+        <figcaption>Leading Individual Forest Rights Awareness Meeting in Jalgaon</figcaption>
+      </figure>
 
+      <figure class="gallery-card narrow">
+        <img src="cfr%20stakeholder%20meeting.JPG" alt="Observing a Community Forest Rights Meeting in Jalgaon.">
+        <figcaption>Observing a Community Forest Rights Meeting in Jalgaon</figcaption>
+      </figure>
 
-![Presenting at APSA 2025 Vancouver](files/APSA%20Vancouver.jpeg){width="600"}
+      <figure class="gallery-card narrow">
+        <img src="APSA%20Vancouver.jpeg" alt="Presenting at APSA 2025 Vancouver.">
+        <figcaption>Presenting at APSA 2025 Vancouver</figcaption>
+      </figure>
 
-![Enumerator Training in Dhule](files/survey%20dhule.jpg){width="600"}
+      <figure class="gallery-card wide">
+        <img src="survey%20dhule.jpg" alt="Enumerator Training in Dhule.">
+        <figcaption>Enumerator Training in Dhule</figcaption>
+      </figure>
 
-![Organizing Community-Led Enumeration of Individual Forest Rights in Nandurbar](files/ifr%20survey%202.jpg){width="600"}
+      <figure class="gallery-card wide">
+        <img src="ifr%20survey%202.jpg" alt="Organizing community-led enumeration of Individual Forest Rights in Nandurbar.">
+        <figcaption>Organizing Community-Led Enumeration of Individual Forest Rights in Nandurbar</figcaption>
+      </figure>
 
-![Being felicitated by tribal leaders before embarking on PhD research](files/felicitation%20collage.jpg){width="600"}
+      <figure class="gallery-card narrow">
+        <img src="felicitation%20collage.jpg" alt="Being felicitated by tribal leaders before embarking on PhD research.">
+        <figcaption>Being felicitated by tribal leaders before embarking on PhD research</figcaption>
+      </figure>
 
-![Observing Adivasi Forest Land Rights Movement, Sakri](files/protest.jpg){width="300"}
+      <figure class="gallery-card narrow">
+        <img src="protest.jpg" alt="Observing Adivasi Forest Land Rights Movement in Sakri.">
+        <figcaption>Observing Adivasi Forest Land Rights Movement, Sakri</figcaption>
+      </figure>
 
-![The Tranquility of the Narmada Valley](files/river.jpg){width="600"}
-:::
+      <figure class="gallery-card wide">
+        <img src="river.jpg" alt="The tranquility of the Narmada Valley.">
+        <figcaption>The Tranquility of the Narmada Valley</figcaption>
+      </figure>
+    </div>
+  </section>
+</div>
+```

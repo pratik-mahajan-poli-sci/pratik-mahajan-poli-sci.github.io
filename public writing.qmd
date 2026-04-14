@@ -6,20 +6,112 @@ format:
     toc: false
 ---
 
--   **Review or Retention.** *The Times of India, Dec 2024* <button onclick="window.open('https://www.dropbox.com/scl/fi/w8pky5xiwz1irg7n26gyc/review-or-retention.jpg?rlkey=iuqxjbpq5uiro325t1vhtlveo&st=m8kaavak&dl=0', '_blank')">Read More</button>
+```{=html}
+<div class="page-shell">
+  <p class="page-lead">This writing brings research questions into public debate, with essays and commentary on democracy, elections, institutions, and political change in India.</p>
 
--   **Ladki, bahin…but ethnic groups, caste too.** *The Times of India, Oct 2024* <button onclick="window.open('https://www.dropbox.com/scl/fi/24w79289gwvd244k1dtth/ladki-bahin.jpg?rlkey=no0zuwgt5oboyvk6p2ruu9ppt&st=c9jvb0ic&dl=0', '_blank')">Read More</button>
+  <section class="section-block">
+    <h2 class="section-title">Recent Commentary</h2>
+    <div class="writing-grid">
+      <article class="writing-card">
+        <img src="review%20or%20retention.jpg" alt="Clipping for Review or Retention.">
+        <div class="writing-card-body">
+          <p class="eyebrow">The Times of India</p>
+          <h3>Review or Retention.</h3>
+          <div class="meta-row tight">
+            <span class="pill alt">Dec 2024</span>
+            <a class="link-pill" href="review%20or%20retention.jpg">Open Clipping</a>
+          </div>
+        </div>
+      </article>
 
--   **Democracy's Slow March.** *With [Alyssa Heinze](https://alyssaheinze.github.io/).* *The Times of India, Oct 2024* <button onclick="window.open('https://www.dropbox.com/scl/fi/zbnhoumkpf03e9d9us870/democracy-on-a-slow-march.jpg?rlkey=bn9dqywsv6hsl9929ea86iuye&st=aos9cup6&dl=0', '_blank')">Read More</button>
+      <article class="writing-card">
+        <img src="ladki%20bahin.jpg" alt="Clipping for Ladki, bahin...but ethnic groups, caste too.">
+        <div class="writing-card-body">
+          <p class="eyebrow">The Times of India</p>
+          <h3>Ladki, bahin...but ethnic groups, caste too.</h3>
+          <div class="meta-row tight">
+            <span class="pill alt">Oct 2024</span>
+            <a class="link-pill" href="ladki%20bahin.jpg">Open Clipping</a>
+          </div>
+        </div>
+      </article>
 
--   **Maha Questions From Opposition's Small Allies.** *The Times of India, Sept 2024* <button onclick="window.open('https://www.dropbox.com/scl/fi/6gsbweho679ti79hxqq4i/maha-questions-from-small-allies.jpg?rlkey=5tycz1rzhz3uub3qc8h3hnd33&st=zq7jdtea&dl=0', '_blank')">Read More</button>
+      <article class="writing-card">
+        <img src="democracy%20on%20a%20slow%20march.jpg" alt="Clipping for Democracy's Slow March.">
+        <div class="writing-card-body">
+          <p class="eyebrow">The Times of India</p>
+          <h3>Democracy's Slow March.</h3>
+          <p class="writing-note">With <a href="https://alyssaheinze.github.io/">Alyssa Heinze</a></p>
+          <div class="meta-row tight">
+            <span class="pill alt">Oct 2024</span>
+            <a class="link-pill" href="democracy%20on%20a%20slow%20march.jpg">Open Clipping</a>
+          </div>
+        </div>
+      </article>
 
--   **Maharashtra LS polls have never been muddier.** *With [Vikramaditya Thakur](https://www.udel.edu/academics/colleges/cas/units/departments/anthropology/our-people/vikramaditya-thakur/).* *The Times of India, May 2024* <button onclick="window.open('https://www.dropbox.com/scl/fi/14kpsk52qgt1r71grpg24/maha-gondhal.jpg?rlkey=ku4raynl1p0njzze8o6c9wd0h&st=irf9eprv&dl=0', '_blank')">Read More</button>
+      <article class="writing-card">
+        <img src="maha%20questions%20from%20small%20allies.jpg" alt="Clipping for Maha Questions From Opposition's Small Allies.">
+        <div class="writing-card-body">
+          <p class="eyebrow">The Times of India</p>
+          <h3>Maha Questions From Opposition's Small Allies.</h3>
+          <div class="meta-row tight">
+            <span class="pill alt">Sept 2024</span>
+            <a class="link-pill" href="maha%20questions%20from%20small%20allies.jpg">Open Clipping</a>
+          </div>
+        </div>
+      </article>
 
--   **Why India’s Plan for A New Parliament May Spell A Challenging Future For Its Democracy?** *The McGill International Review, May 2021* <button onclick="window.open('https://www.mironline.ca/why-indias-plan-for-a-new-parliament-may-spell-a-challenging-future-for-its-democracy/', '_blank')">Read More</button>
+      <article class="writing-card">
+        <img src="maha%20gondhal.jpg" alt="Clipping for Maharashtra LS polls have never been muddier.">
+        <div class="writing-card-body">
+          <p class="eyebrow">The Times of India</p>
+          <h3>Maharashtra LS polls have never been muddier.</h3>
+          <p class="writing-note">With <a href="https://www.udel.edu/academics/colleges/cas/units/departments/anthropology/our-people/vikramaditya-thakur/">Vikramaditya Thakur</a></p>
+          <div class="meta-row tight">
+            <span class="pill alt">May 2024</span>
+            <a class="link-pill" href="maha%20gondhal.jpg">Open Clipping</a>
+          </div>
+        </div>
+      </article>
+    </div>
+  </section>
 
--   **Education in India: A Duty Forsaken During COVID-19.** *The McGill International Review, July 2021* <button onclick="window.open('https://www.mironline.ca/education-in-india-a-right-forsaken-during-covid-19/', '_blank')">Read More</button>
+  <section class="section-block">
+    <h2 class="section-title">Earlier Writing</h2>
+    <div class="card-grid two-up">
+      <article class="entry-card">
+        <h3>Why India's Plan for A New Parliament May Spell A Challenging Future For Its Democracy?</h3>
+        <div class="meta-row">
+          <p class="meta-text"><em>The McGill International Review, May 2021</em></p>
+          <a class="link-pill" href="https://www.mironline.ca/why-indias-plan-for-a-new-parliament-may-spell-a-challenging-future-for-its-democracy/">Read Article</a>
+        </div>
+      </article>
 
--   **Guardians, citizens and the prohibition of private possessions in Plato's Republic.** *Liberalis Magazine, 2021* <button onclick="window.open('files/plato republic.jpg', '_blank')">Read More</button>
+      <article class="entry-card">
+        <h3>Education in India: A Duty Forsaken During COVID-19.</h3>
+        <div class="meta-row">
+          <p class="meta-text"><em>The McGill International Review, July 2021</em></p>
+          <a class="link-pill" href="https://www.mironline.ca/education-in-india-a-right-forsaken-during-covid-19/">Read Article</a>
+        </div>
+      </article>
 
--   **Action as Addition: A Move Beyond Consequentializing.** *Fragments: McGill Philosophy Journal, 2021* <button onclick="window.open('https://00ff1226-c9ea-453e-baa6-e67819b43f30.filesusr.com/ugd/bc8784_cc48e86634aa4c4ca45aac27c1a3ee11.pdf', '_blank')">Read More</button>
+      <article class="entry-card">
+        <h3>Guardians, citizens and the prohibition of private possessions in Plato's Republic.</h3>
+        <div class="meta-row">
+          <p class="meta-text"><em>Liberalis Magazine, 2021</em></p>
+          <a class="link-pill" href="https://mppsm15.medium.com/guardians-citizens-and-the-prohibition-of-private-possessions-in-platos-republic-bc97976abd9">Read Article</a>
+        </div>
+      </article>
+
+      <article class="entry-card">
+        <h3>Action as Addition: A Move Beyond Consequentializing.</h3>
+        <div class="meta-row">
+          <p class="meta-text"><em>Fragments: McGill Philosophy Journal, 2021</em></p>
+          <a class="link-pill" href="https://00ff1226-c9ea-453e-baa6-e67819b43f30.filesusr.com/ugd/bc8784_cc48e86634aa4c4ca45aac27c1a3ee11.pdf">Open PDF</a>
+        </div>
+      </article>
+    </div>
+  </section>
+</div>
+```

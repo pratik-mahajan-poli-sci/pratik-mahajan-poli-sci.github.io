@@ -1,6 +1,12 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "*.jpg"
+    - "*.JPG"
+    - "*.jpeg"
+    - "*.png"
+    - "*.pdf"
   
 html-head:
   - link:

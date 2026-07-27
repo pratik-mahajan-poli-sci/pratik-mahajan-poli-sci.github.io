@@ -25,6 +25,8 @@ website:
       - teaching.qmd
       - public writing.qmd
       - snapshots.qmd
+      - href: CV_Pratik_Mahajan.pdf
+        text: CV
     
      
 

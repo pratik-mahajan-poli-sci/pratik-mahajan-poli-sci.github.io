@@ -16,9 +16,6 @@ about:
   image-shape: rounded
   image-width: 20em
   links:
-    - icon: file-pdf
-      text: CV
-      href: CV_Pratik_Mahajan.pdf
     - icon: globe
       text: OSF
       href: https://osf.io/mr4ud/
@@ -32,8 +29,8 @@ about:
 
 # Hello! जिंदाबाद!
 
-I am a student and researcher of governance and development in South Asia. My academic and experiential work grapples with questions of how political representation and development is realized in unexpected and divergent ways, particularly among indigenous (*Adivasi)* communities in India. **I am currently a PhD student in the Department of Political Science at Yale University.**
+I am a PhD student in the Department of Political Science at Yale University. My research is in comparative politics and the political economy of development, with a focus on indigenous representation and governance, democratic resilience and parties, and South Asia.
 
-My prospective dissertation project examines how granting of property and representational rights transform forests and self-governance by indigenous communities in India. In parallel, I study political representation and linkage, exploring how citizens are connected to and represented within parties and elected institutions.
+My dissertation examines how granting property and representational rights transforms forests and self-governance among indigenous (*Adivasi*) communities in India. In parallel, I study how citizens, civil society organizations, and political aspirants are linked to parties and elected institutions, and how these relationships shape political representation and democratic resilience.
 
-I bring multiple years of observing governance and claim-making by tribal communities in Western India - across the states of Gujarat, Maharashtra, and Madhya Pradesh - to my research. I have extensive experience in leading large survey teams for my projects and creating original observational datasets of rural governance bodies in India.
+I bring several years of observing governance, elections, and claim-making in western India, across Gujarat, Maharashtra, and Madhya Pradesh, to my research. My work combines field research, interviews, survey experiments, and original datasets on rural governance in India.

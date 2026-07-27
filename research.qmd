@@ -9,11 +9,11 @@ format:
 ```{=html}
 <div class="page-shell">
   <section class="section-block">
-    <h2 class="section-title">Forests and Land Governance</h2>
+    <h2 class="section-title">Indigenous Representation and Governance</h2>
     <div class="feature-layout">
       <figure class="feature-figure">
-        <img src="landing%20page%20image.jpg" alt="Fieldwork connected to forests and land governance research.">
-        <figcaption>Fieldwork on land rights, forest governance, and rural institutions</figcaption>
+        <img src="landing%20page%20image.jpg" alt="Fieldwork connected to tribal and land governance research.">
+        <figcaption>Land rights, forest governance, indigenous politics, and representation</figcaption>
       </figure>
       <div class="card-stack">
         <article class="entry-card">
@@ -24,10 +24,23 @@ format:
         </article>
 
         <article class="entry-card">
-          <h3>The Long-Run Impacts of Indigenous Land Alienation Laws: Evidence from India</h3>
+          <h3>The Politics of Indigenous-Reserved Seat Vacancies in India's Village Councils</h3>
           <div class="meta-row">
-            <p class="meta-text"><em>With <a href="https://www.patrickagte.com/">Patrick Agte</a> and <a href="https://www.ariellebernhardt.com/home">Arielle Bernhardt</a></em></p>
+            <p class="meta-text"><em>With <a href="https://alyssaheinze.github.io/">Alyssa Heinze</a></em></p>
             <span class="pill">Work in Progress</span>
+          </div>
+        </article>
+
+        <article class="entry-card">
+          <h3>Votes without Ideological Conversion: The Case of Hindu Nationalism and Indigenous Voters in India</h3>
+          <div class="meta-row">
+            <span class="pill">Under Review</span>
+            <details class="inline-toggle">
+              <summary>Read Abstract</summary>
+              <div class="toggle-panel">
+                <p>Religious nationalist parties answer to movements that seek ideological transformation alongside votes. I ask what happens to religious identity when such a party reaches a marginalized electorate through local networks, welfare access, and embedded leaders. I describe this route as leader-mediated expansion and argue that it produces mediated incorporation: the party's religious project travels through politicians who must remain credible to voters whose religious lives are plural. Voters may become more open to the movement's claims, while refusing the hierarchy of identities it seeks to impose. I test the argument in India, where the BJP won an indigenous reserved constituency held by its opposition for six decades, drawing on five months of fieldwork, 120 interviews, and a visual conjoint experiment with 678 indigenous Bhil respondents. I show that religious nationalist parties can win new electorates and broaden tolerance for their language without remaking the identities voters use to define themselves.</p>
+              </div>
+            </details>
           </div>
         </article>
       </div>
@@ -35,7 +48,7 @@ format:
   </section>
 
   <section class="section-block">
-    <h2 class="section-title">Political Representation and Linkage</h2>
+    <h2 class="section-title">Democratic Resilience and Parties</h2>
     <div class="feature-layout">
       <figure class="feature-figure">
         <img src="pw%20training.jpg" alt="Fieldwork and training connected to research on parties and political representation.">
@@ -46,7 +59,7 @@ format:
           <h3>Formal Positions and the Intra-Party Organizational Hierarchy</h3>
           <div class="meta-row">
             <p class="meta-text"><em>With <a href="https://www.feyaadallie.com/">Feyaad Allie</a> and <a href="https://cprindia.org/people/rahul-verma/">Rahul Verma</a></em></p>
-            <span class="pill">Working Paper</span>
+            <span class="pill">Revise and Resubmit</span>
             <details class="inline-toggle">
               <summary>Read Abstract</summary>
               <div class="toggle-panel">
@@ -57,28 +70,42 @@ format:
         </article>
 
         <article class="entry-card">
-          <h3>How Internal Constraints Shape Electoral Collaboration Between Interest Organizations and Political Parties</h3>
+          <h3>Pressured from Above, Constrained from Within: Civil Society-Opposition Party Electoral Linkage</h3>
           <div class="meta-row">
             <p class="meta-text"><em>With <a href="https://www.feyaadallie.com/">Feyaad Allie</a></em></p>
-            <span class="pill">Working Paper</span>
+            <span class="pill">Under Review</span>
             <details class="inline-toggle">
               <summary>Read Abstract</summary>
               <div class="toggle-panel">
-                <p>Interest organizations within civil society that are traditionally nonpartisan sometimes mobilize voters for political parties. Prior research explains why these collaborations occur, but pays less attention to the internal constraints that shape them. Organizations must maintain their community credibility and limit overt partisanship, while parties must avoid perceptions that their rank-and-file or party brand is being pushed aside. We focus on how both sides manage these constraints through the specific forms their collaboration takes. We argue that each actor strategically chooses modes of electoral engagement that help balance internal pressures. We test this in India through multi-site shadowing during an election campaign and two pre-registered survey experiments, one with 730 interest organization representatives and another with 736 party workers. Our findings reveal how these calibrated alliances emerge in response to internal constraints, where organizations emphasize interest alignment to maintain an altruistic reputation, while parties emphasize instrumental alignment to justify collaboration as electorally useful.</p>
+                <p>Across contexts, civil society organizations (CSOs) and opposition parties collaborate during elections when both confront entrenched incumbent governments. However, shared threats do not produce uniform partnerships on the ground. We argue that while restrictive environments encourage CSO-opposition party linkage, internal constituents constrain its local implementation. CSOs deepen collaboration when candidates align with their social mission, allowing leaders to protect organizational autonomy and reputation with members. Parties deepen collaboration when CSOs offer clear electoral value, making ties defensible to party cadres. We test this argument in India using 62 days of election campaign shadowing and original surveys of 730 CSO representatives and 736 party workers. Two survey experiments show variation in the scope, cohesion, and reciprocity expected by both actors during campaigns. This article unpacks the internal dynamics of CSO-opposition party linkage which constrain their shared response during restrictive environments, and reconceptualizes their relationship as negotiated rather than one-sided partisan brokerage.</p>
               </div>
             </details>
           </div>
         </article>
 
         <article class="entry-card">
-          <h3>Decentralizing Democratic Erosion: Local Election Delays in the World's Largest Democracy</h3>
+          <h3>Decentralizing Democratic Erosion: Local Election Suspensions in the World's Largest Democracy</h3>
           <div class="meta-row">
             <p class="meta-text"><em>With <a href="https://alyssaheinze.github.io/">Alyssa Heinze</a></em></p>
-            <span class="pill">Working Paper</span>
+            <span class="pill">Under Review</span>
             <details class="inline-toggle">
               <summary>Read Abstract</summary>
               <div class="toggle-panel">
-                <p>Democratic erosion is typically studied as a national process, visible in attacks on elections, courts, and opposition actors. We call attention instead to local-level democratic erosion, particularly the suspension of elected local government in ways that attract far less public scrutiny while reshaping citizens' everyday democratic experience. We examine this process through the case of local election delays in India, where millions of citizens have gone years without elected local representatives despite the country's reputation for decentralized democracy. We argue that local-level democratic erosion is a deliberate strategy that consolidates elite political control while avoiding the public scrutiny that more visible forms of erosion would invite. Drawing on five original surveys of 8,076 respondents, including voters, opposition party workers, civil society representatives, and village council presidents, as well as approximately 70 semi-structured interviews, we present three findings. First, most respondents were unaware their local bodies were unelected. Second, pre-registered vignette experiments show citizens are not apathetic, but rather perceive that local democratic erosion produces meaningful costs. Third, a pre-registered information experiment demonstrates that learning about one's local body's unelected status significantly increases reported propensity to mobilize for democratic restoration.</p>
+                <p>Democratic erosion is typically understood as unfolding at the national- and state-level. We call attention instead to <em>local-level</em> democratic erosion, a strategy that, we argue, consolidates elite political control while avoiding the public scrutiny that more visible forms of erosion invite. We examine this process through the recent, large-scale suspensions of local elections across India, where millions have gone years without local elected representatives. Drawing on five original surveys totaling over 8,000 respondents and 70 interviews, we substantiate an unawareness-based account of citizens' non-opposition to local-level democratic erosion, highlighting three main findings. First, most citizens are unaware that their own local government is suspended. Second, three preregistered vignette experiments show citizens are not apathetic: they perceive meaningful costs to local democratic erosion. Third, a final preregistered information experiment demonstrates that learning of one's local government's unelected status increases willingness to mobilize for democratic restoration.</p>
+              </div>
+            </details>
+          </div>
+        </article>
+
+        <article class="entry-card">
+          <h3>Who Tolerates Dynastic Politicians? Political Ambition and Candidate Evaluation in India</h3>
+          <div class="meta-row">
+            <p class="meta-text"><em>With <a href="https://cprindia.org/people/rahul-verma/">Rahul Verma</a></em></p>
+            <span class="pill">Under Review</span>
+            <details class="inline-toggle">
+              <summary>Read Abstract</summary>
+              <div class="toggle-panel">
+                <p>Dynastic politicians remain central to electoral politics in many democracies, but we know less about which citizens tolerate them. This research note documents a previously unexamined correlate of tolerance: political ambition. Using a nationally representative survey of 1,988 Indian citizens, we show that respondents who say they would consider politics as a career evaluate dynastic politicians more favorably than otherwise similar respondents. Ambitious citizens are more likely to accept party nominations for politicians' children and to rate dynasts as more capable on nine of ten traits spanning influence, service delivery, and political skills. The associations are robust to demographic controls, state fixed effects, survey weights, and a measure of political engagement. Interviews with citizens and party workers provide suggestive evidence for a gatekeeper interpretation: aspirants often describe dynasts as unfair but unavoidable actors whose favor may matter for their own entry and advancement. The evidence is associational, but the pattern establishes that political ambition is linked to accommodation of dynastic power.</p>
               </div>
             </details>
           </div>
@@ -98,13 +125,6 @@ format:
           </div>
         </article>
 
-        <article class="entry-card">
-          <h3>The Politics of Indigenous-Reserved Seat Vacancies in India's Village Councils</h3>
-          <div class="meta-row">
-            <p class="meta-text"><em>With <a href="https://alyssaheinze.github.io/">Alyssa Heinze</a></em></p>
-            <span class="pill">Work in Progress</span>
-          </div>
-        </article>
       </div>
     </div>
   </section>
